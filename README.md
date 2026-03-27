@@ -2,7 +2,7 @@
 End-to-end Hospital ER Analytics Dashboard using Python, MySQL, Excel and Power BI
 
 
-![Dashboard Preview](visuals/er_analysis_chaets.png)
+![Dashboard Preview](hospital-er-analytics/visuals/er_analysis_chaets.png)
 ```
 
 ---
