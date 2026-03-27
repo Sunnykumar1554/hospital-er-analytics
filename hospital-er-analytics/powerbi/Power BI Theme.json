@@ -1,0 +1,11 @@
+{
+  "name": "Hospital ER Dark Teal",
+  "dataColors": [
+    "#00C8A0", "#3B82F6", "#F59E0B",
+    "#EC4899", "#8B5CF6", "#EF4444",
+    "#6EE7B7", "#93C5FD"
+  ],
+  "background": "#0F1825",
+  "foreground": "#E2EAF5",
+  "tableAccent": "#00C8A0"
+}

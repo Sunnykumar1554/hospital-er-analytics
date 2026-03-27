@@ -1,0 +1,501 @@
+Patient_ID,Patient_Name,Age,Gender,Blood_Type,Admission_Date,Admission_Time,Discharge_Time,Department,Doctor_Name,Diagnosis,Wait_Time_Minutes,Treatment_Cost,Payment_Mode,Status,Age_Group,Month_Name,Hour_of_Admission,Day_of_Week,Wait_Category
+ER0001,Meghana Dewan,36,Male,B-,28-09-2025,10:09,29-09-2025 01:09,Cardiology,Dr. Iyer,COVID-19,44,9160.84,Insurance,Discharged,Adult,September,#VALUE!,Sunday,Normal
+ER0002,Daksha Sengupta,12,Male,B-,27-12-2025,21:01,Still Admitted,Cardiology,Dr. Sharma,Kidney Stones,30,17301.78,Government Scheme,Admitted,Child,December,#VALUE!,Saturday,Fast
+ER0003,Kai Lata,21,Other,AB+,12-09-2025,21:31,14-09-2025 09:31,Cardiology,Dr. Singh,Fever,48,13638.02,Credit Card,Admitted,Adult,September,#VALUE!,Friday,Normal
+ER0004,Krish Chowdhury,46,Female,O+,04-08-2025,08:20,06-08-2025 09:20,Orthopedics,Dr. Sharma,COVID-19,82,39321.4,Insurance,Discharged,Middle Aged,August,#VALUE!,Monday,Slow
+ER0005,Ekantika Khatri,71,Female,O-,16-09-2025,13:03,18-09-2025 14:03,Orthopedics,Dr. Khan,COVID-19,28,6377.41,Cash,Discharged,Senior,September,#VALUE!,Tuesday,Fast
+ER0006,Arya Iyengar,13,Female,O+,22-01-2026,13:08,23-01-2026 00:08,General Medicine,Dr. Nair,Dengue,28,70982.33,Cash,Admitted,Teen,January,#VALUE!,Thursday,Fast
+ER0007,Isaiah Dalal,90,Other,A-,17-09-2025,14:19,18-09-2025 17:19,Pediatrics,Dr. Iyer,Kidney Stones,85,62111.21,Cash,Discharged,Senior,September,#VALUE!,Wednesday,Slow
+ER0008,Tanvi Thaker,88,Female,A+,27-10-2025,18:53,29-10-2025 05:53,General Medicine,Dr. Khan,Chest Pain,52,68526.37,Government Scheme,Admitted,Senior,October,#VALUE!,Monday,Normal
+ER0009,Ucchal Kibe,28,Other,AB-,06-12-2025,16:51,07-12-2025 20:51,Emergency,Dr. Reddy,Dengue,24,39272.98,Credit Card,Admitted,Adult,December,#VALUE!,Saturday,Fast
+ER0010,Oliver Kibe,75,Female,AB+,14-04-2025,10:18,17-04-2025 10:18,Pediatrics,Dr. Singh,Migraine,45,84774.03,Cash,Discharged,Senior,April,#VALUE!,Monday,Normal
+ER0011,Keya Arora,15,Male,B+,04-09-2025,17:48,Still Admitted,Cardiology,Dr. Reddy,Pneumonia,25,5868.09,Government Scheme,Discharged,Teen,September,#VALUE!,Thursday,Fast
+ER0012,Ethan Basak,71,Male,A-,10-09-2025,17:00,13-09-2025 05:00,Pediatrics,Dr. Verma,Hypertension,25,54661.27,Insurance,Admitted,Senior,September,#VALUE!,Wednesday,Fast
+ER0013,Shivani Patla,1,Other,O+,10-12-2025,05:31,11-12-2025 02:31,ENT,Dr. Iyer,Kidney Stones,38,77617.05,Credit Card,Discharged,Child,December,#VALUE!,Wednesday,Normal
+ER0014,Kai Ram,20,Female,B+,19-11-2025,10:04,22-11-2025 03:04,General Medicine,Dr. Sharma,Pneumonia,10,27891.19,Insurance,Admitted,Adult,November,#VALUE!,Wednesday,Fast
+ER0015,Warjas Comar,31,Male,B-,13-02-2026,02:49,15-02-2026 01:49,Pediatrics,Dr. Patel,Fracture,11,62346.19,Insurance,Discharged,Adult,February,#VALUE!,Friday,Fast
+ER0016,Wridesh Sabharwal,17,Other,AB-,26-03-2025,13:01,29-03-2025 10:01,Neurology,Dr. Iyer,Fever,23,45088.44,Government Scheme,Discharged,Teen,March,#VALUE!,Wednesday,Fast
+ER0017,Kevin Nayak,40,Female,O-,29-12-2025,23:41,01-01-2026 21:41,General Medicine,Dr. Nair,Kidney Stones,18,38650.58,Cash,Admitted,Adult,December,#VALUE!,Monday,Fast
+ER0018,Sarthak Acharya,76,Other,B-,13-11-2025,20:22,15-11-2025 16:22,Cardiology,Dr. Khan,Chest Pain,39,6498.92,Insurance,Admitted,Senior,November,#VALUE!,Thursday,Normal
+ER0019,Ekbal Kara,10,Other,B-,28-05-2025,21:03,29-05-2025 02:03,Emergency,Dr. Verma,Dengue,19,41517.53,Cash,Discharged,Child,May,#VALUE!,Wednesday,Fast
+ER0020,Yashvi Malhotra,61,Female,B-,17-02-2026,08:57,19-02-2026 21:57,General Medicine,Dr. Patel,Fracture,14,56184.04,Credit Card,Discharged,Senior,February,#VALUE!,Tuesday,Fast
+ER0021,Eta Bali,87,Other,A-,21-09-2025,02:32,23-09-2025 14:32,Cardiology,Dr. Sharma,Stroke,79,62034.05,Insurance,Admitted,Senior,September,#VALUE!,Sunday,Slow
+ER0022,Isaac Nori,18,Female,B+,29-09-2025,02:02,30-09-2025 03:02,ENT,Dr. Verma,Heart Attack,28,21608.64,Insurance,Discharged,Adult,September,#VALUE!,Monday,Fast
+ER0023,Guneet Singhal,7,Other,A+,25-02-2026,06:12,28-02-2026 05:12,Orthopedics,Dr. Patel,Hypertension,34,72214.79,Cash,Discharged,Child,February,#VALUE!,Wednesday,Normal
+ER0024,Zarna Jha,52,Male,B+,26-02-2026,12:39,01-03-2026 02:39,General Medicine,Dr. Reddy,Chest Pain,14,83758.6,Credit Card,Discharged,Middle Aged,February,#VALUE!,Thursday,Fast
+ER0025,Odika Hayre,55,Other,AB-,28-06-2025,15:06,01-07-2025 02:06,Pediatrics,Dr. Iyer,Migraine,23,25571.81,Insurance,Discharged,Middle Aged,June,#VALUE!,Saturday,Fast
+ER0026,Widisha Ramakrishnan,41,Male,A+,14-10-2025,15:51,17-10-2025 13:51,Cardiology,Dr. Nair,Kidney Stones,35,78188.21,Cash,Admitted,Middle Aged,October,#VALUE!,Tuesday,Normal
+ER0027,Amara Kibe,24,Male,A-,22-03-2025,18:42,25-03-2025 12:42,Orthopedics,Dr. Khan,Stroke,16,10630.42,Cash,Discharged,Adult,March,#VALUE!,Saturday,Fast
+ER0028,Zayyan Warrior,54,Other,O-,14-01-2026,02:02,14-01-2026 08:02,Orthopedics,Dr. Verma,Migraine,41,57091.84,Credit Card,Admitted,Middle Aged,January,#VALUE!,Wednesday,Normal
+ER0029,Qushi Subramanian,86,Other,O+,07-02-2026,08:15,09-02-2026 11:15,Neurology,Dr. Nair,Asthma,23,79002.05,Insurance,Admitted,Senior,February,#VALUE!,Saturday,Fast
+ER0030,Onveer Shanker,69,Male,O+,29-06-2025,04:56,29-06-2025 17:56,Orthopedics,Dr. Iyer,Asthma,27,74933.02,Cash,Admitted,Senior,June,#VALUE!,Sunday,Fast
+ER0031,Isaiah Saran,70,Other,O+,25-12-2025,22:58,26-12-2025 19:58,ENT,Dr. Sharma,Dengue,23,69545.3,Credit Card,Discharged,Senior,December,#VALUE!,Thursday,Fast
+ER0032,Zilmil Rege,34,Male,A-,10-10-2025,23:39,11-10-2025 13:39,Neurology,Dr. Iyer,Fever,100,24308.4,Cash,Discharged,Adult,October,#VALUE!,Friday,Slow
+ER0033,Maya Varkey,65,Female,O+,12-10-2025,06:13,13-10-2025 09:13,Pediatrics,Dr. Sharma,Fracture,32,54097.04,Credit Card,Admitted,Senior,October,#VALUE!,Sunday,Normal
+ER0034,Urvashi Srinivas,82,Female,B+,25-02-2026,15:16,27-02-2026 10:16,Neurology,Dr. Nair,Kidney Stones,17,60128.9,Insurance,Admitted,Senior,February,#VALUE!,Wednesday,Fast
+ER0035,Aryan Batta,48,Other,B+,31-01-2026,23:26,01-02-2026 19:26,Cardiology,Dr. Reddy,Appendicitis,54,4034.54,Credit Card,Discharged,Middle Aged,January,#VALUE!,Saturday,Normal
+ER0036,Janya Dixit,27,Other,B-,16-10-2025,05:32,16-10-2025 11:32,Emergency,Dr. Patel,Asthma,15,66419.82,Government Scheme,Discharged,Adult,October,#VALUE!,Thursday,Fast
+ER0037,Keya Madan,21,Male,AB+,16-04-2025,04:20,Still Admitted,General Medicine,Dr. Sharma,Appendicitis,37,62739.7,Credit Card,Discharged,Adult,April,#VALUE!,Wednesday,Normal
+ER0038,Kalpit Sodhi,35,Male,A-,04-04-2025,03:19,06-04-2025 08:19,General Medicine,Dr. Reddy,Chest Pain,10,73051.13,Cash,Admitted,Adult,April,#VALUE!,Friday,Fast
+ER0039,Dev Hora,40,Male,B-,23-05-2025,16:29,26-05-2025 03:29,Emergency,Dr. Sharma,Dengue,14,16819.47,Not Specified,Admitted,Adult,May,#VALUE!,Friday,Fast
+ER0040,Ekani Deo,45,Other,AB+,29-04-2025,22:41,30-04-2025 07:41,Pediatrics,Dr. Singh,Chest Pain,37,10246.38,Credit Card,Admitted,Middle Aged,April,#VALUE!,Tuesday,Normal
+ER0041,Kai Borah,14,Other,AB+,28-03-2025,23:48,30-03-2025 09:48,Cardiology,Dr. Singh,COVID-19,51,66953.18,Government Scheme,Discharged,Teen,March,#VALUE!,Friday,Normal
+ER0042,Aadhya Atwal,50,Other,B-,14-11-2025,11:01,17-11-2025 05:01,Orthopedics,Dr. Verma,Chest Pain,36,60392.36,Insurance,Discharged,Middle Aged,November,#VALUE!,Friday,Normal
+ER0043,Vihaan Pandit,47,Female,A-,09-04-2025,01:17,11-04-2025 22:17,General Medicine,Dr. Singh,Pneumonia,30,27025.87,Insurance,Discharged,Middle Aged,April,#VALUE!,Wednesday,Fast
+ER0044,Jonathan Barad,86,Female,O-,07-08-2025,16:27,Still Admitted,Pediatrics,Dr. Reddy,COVID-19,27,25482.86,Cash,Admitted,Senior,August,#VALUE!,Thursday,Fast
+ER0045,Alka Seth,79,Other,O+,12-07-2025,17:00,Still Admitted,Neurology,Dr. Reddy,Kidney Stones,13,70949.78,Credit Card,Admitted,Senior,July,#VALUE!,Saturday,Fast
+ER0046,Harsh Morar,60,Female,AB-,27-12-2025,14:25,29-12-2025 22:25,Emergency,Dr. Khan,Kidney Stones,21,40484.23,Cash,Discharged,Middle Aged,December,#VALUE!,Saturday,Fast
+ER0047,Harsh Kaul,12,Male,O+,06-01-2026,14:59,08-01-2026 03:59,Emergency,Dr. Khan,Hypertension,25,17326.48,Insurance,Admitted,Child,January,#VALUE!,Tuesday,Fast
+ER0048,Hemangini Dasgupta,59,Female,B-,17-05-2025,06:07,19-05-2025 19:07,Orthopedics,Dr. Reddy,Heart Attack,62,34270.67,Cash,Discharged,Middle Aged,May,#VALUE!,Saturday,Slow
+ER0049,Vedant Bhargava,55,Male,B+,14-08-2025,04:34,14-08-2025 05:34,Orthopedics,Dr. Nair,Chest Pain,40,47600.79,Insurance,Discharged,Middle Aged,August,#VALUE!,Thursday,Normal
+ER0050,Rajeshri Tella,57,Other,AB+,04-01-2026,15:40,07-01-2026 03:40,Emergency,Dr. Nair,Appendicitis,11,63338.88,Government Scheme,Discharged,Middle Aged,January,#VALUE!,Sunday,Fast
+ER0051,Ekaraj Buch,67,Female,B-,29-01-2026,04:44,30-01-2026 12:44,Pediatrics,Dr. Verma,Heart Attack,40,7047.34,Credit Card,Admitted,Senior,January,#VALUE!,Thursday,Normal
+ER0052,Jagvi Parsa,70,Male,B+,28-08-2025,21:07,30-08-2025 16:07,Emergency,Dr. Iyer,Migraine,26,32866.48,Cash,Discharged,Senior,August,#VALUE!,Thursday,Fast
+ER0053,Jalsa Cheema,53,Female,AB-,12-05-2025,03:43,12-05-2025 12:43,Gynecology,Dr. Reddy,Chest Pain,22,17977.51,Government Scheme,Admitted,Middle Aged,May,#VALUE!,Monday,Fast
+ER0054,Vanya Khare,62,Male,O-,15-09-2025,19:55,15-09-2025 22:55,Gynecology,Dr. Verma,Hypertension,47,33453.87,Government Scheme,Discharged,Senior,September,#VALUE!,Monday,Normal
+ER0055,Waida Sodhi,63,Male,O+,27-09-2025,03:11,30-09-2025 01:11,General Medicine,Dr. Reddy,Heart Attack,61,2952.6,Credit Card,Discharged,Senior,September,#VALUE!,Saturday,Slow
+ER0056,Lipika Batra,60,Male,A+,18-01-2026,17:14,20-01-2026 21:14,Neurology,Dr. Reddy,Pneumonia,57,48191.12,Insurance,Admitted,Middle Aged,January,#VALUE!,Sunday,Normal
+ER0057,Januja Babu,60,Male,A+,27-11-2025,18:45,30-11-2025 01:45,Neurology,Dr. Verma,Stroke,20,28161.3,Government Scheme,Admitted,Middle Aged,November,#VALUE!,Thursday,Fast
+ER0058,Ira Karpe,54,Female,A-,24-05-2025,06:05,26-05-2025 07:05,Pediatrics,Dr. Nair,Chest Pain,27,63792.55,Insurance,Discharged,Middle Aged,May,#VALUE!,Saturday,Fast
+ER0059,Lajita Sachdeva,84,Male,A+,12-11-2025,10:16,14-11-2025 07:16,General Medicine,Dr. Sharma,Migraine,40,17345.98,Insurance,Discharged,Senior,November,#VALUE!,Wednesday,Normal
+ER0060,Watika Merchant,61,Other,A-,21-05-2025,14:43,22-05-2025 21:43,Neurology,Dr. Khan,Heart Attack,59,59604.79,Credit Card,Admitted,Senior,May,#VALUE!,Wednesday,Normal
+ER0061,Kabir Seth,40,Male,A+,09-07-2025,11:33,10-07-2025 02:33,Neurology,Dr. Verma,Pneumonia,24,57735.85,Government Scheme,Admitted,Adult,July,#VALUE!,Wednesday,Fast
+ER0062,Yashvi Tank,76,Other,B-,26-03-2025,12:05,27-03-2025 14:05,Orthopedics,Dr. Patel,COVID-19,29,65774.63,Insurance,Discharged,Senior,March,#VALUE!,Wednesday,Fast
+ER0063,Amrita Pau,69,Female,O-,26-08-2025,06:49,26-08-2025 12:49,Emergency,Dr. Patel,Kidney Stones,17,55217.4,Insurance,Discharged,Senior,August,#VALUE!,Tuesday,Fast
+ER0064,Janani Khosla,56,Female,AB-,17-06-2025,03:54,19-06-2025 18:54,Orthopedics,Dr. Iyer,Stroke,16,15383.57,Credit Card,Discharged,Middle Aged,June,#VALUE!,Tuesday,Fast
+ER0065,Tara Srinivasan,60,Female,O+,28-09-2025,12:59,01-10-2025 09:59,ENT,Dr. Singh,Migraine,53,70696.77,Insurance,Admitted,Middle Aged,September,#VALUE!,Sunday,Normal
+ER0066,Vansha Bhardwaj,60,Other,AB+,27-04-2025,01:27,29-04-2025 11:27,General Medicine,Dr. Singh,Chest Pain,74,42268.9,Credit Card,Admitted,Middle Aged,April,#VALUE!,Sunday,Slow
+ER0067,Lakshmi Khatri,34,Female,O+,08-08-2025,23:16,10-08-2025 03:16,Emergency,Dr. Verma,Kidney Stones,31,1357.77,Cash,Admitted,Adult,August,#VALUE!,Friday,Normal
+ER0068,Nandini Jayaraman,72,Male,AB-,17-10-2025,14:22,19-10-2025 19:22,ENT,Dr. Nair,Heart Attack,60,67502.83,Insurance,Admitted,Senior,October,#VALUE!,Friday,Normal
+ER0069,Janani Om,40,Other,O-,08-04-2025,10:57,10-04-2025 14:57,General Medicine,Dr. Nair,Kidney Stones,41,45362.9,Government Scheme,Discharged,Adult,April,#VALUE!,Tuesday,Normal
+ER0070,Anika Ram,46,Other,AB-,26-09-2025,18:21,29-09-2025 17:21,Emergency,Dr. Verma,Fever,22,21743.61,Insurance,Discharged,Middle Aged,September,#VALUE!,Friday,Fast
+ER0071,Harshil Saran,69,Other,B+,07-10-2025,15:49,09-10-2025 08:49,Orthopedics,Dr. Khan,Migraine,41,62912.09,Credit Card,Discharged,Senior,October,#VALUE!,Tuesday,Normal
+ER0072,Zehaan Thaker,13,Male,O+,05-01-2026,17:35,08-01-2026 13:35,Pediatrics,Dr. Khan,Asthma,83,15662.81,Insurance,Discharged,Teen,January,#VALUE!,Monday,Slow
+ER0073,Nilima Shenoy,6,Male,O+,02-10-2025,10:00,03-10-2025 03:00,Pediatrics,Dr. Iyer,Dengue,32,73884.97,Government Scheme,Admitted,Child,October,#VALUE!,Thursday,Normal
+ER0074,Riya Sarin,61,Female,AB-,22-02-2026,17:41,22-02-2026 19:41,Pediatrics,Dr. Singh,Appendicitis,84,82084.55,Credit Card,Discharged,Senior,February,#VALUE!,Sunday,Slow
+ER0075,Chameli Sahni,9,Female,AB-,01-06-2025,06:25,03-06-2025 20:25,Orthopedics,Dr. Patel,Pneumonia,6,53688.16,Insurance,Admitted,Child,June,#VALUE!,Sunday,Fast
+ER0076,Naveen Bhatt,32,Male,AB+,16-05-2025,16:08,Still Admitted,Orthopedics,Dr. Khan,Hypertension,54,44657.38,Government Scheme,Discharged,Adult,May,#VALUE!,Friday,Normal
+ER0077,Vrishti Yadav,40,Other,A+,28-12-2025,05:42,29-12-2025 20:42,Gynecology,Dr. Patel,Hypertension,34,18058.08,Cash,Admitted,Adult,December,#VALUE!,Sunday,Normal
+ER0078,Nitesh Chakrabarti,31,Male,A-,31-08-2025,11:54,31-08-2025 22:54,Neurology,Dr. Iyer,Chest Pain,27,35019.73,Government Scheme,Admitted,Adult,August,#VALUE!,Sunday,Fast
+ER0079,Panini Thakur,37,Other,AB-,25-01-2026,20:25,27-01-2026 02:25,Pediatrics,Dr. Patel,Dengue,34,20224.31,Credit Card,Discharged,Adult,January,#VALUE!,Sunday,Normal
+ER0080,Tanvi Dhingra,15,Other,B-,24-02-2026,08:04,25-02-2026 10:04,Gynecology,Dr. Iyer,Fever,10,70350.33,Insurance,Admitted,Teen,February,#VALUE!,Tuesday,Fast
+ER0081,Arjun Sachdev,57,Male,AB-,19-09-2025,02:55,20-09-2025 18:55,Pediatrics,Dr. Verma,COVID-19,29,34511.97,Credit Card,Discharged,Middle Aged,September,#VALUE!,Friday,Fast
+ER0082,Megha Loyal,11,Other,A+,27-09-2025,09:08,30-09-2025 01:08,ENT,Dr. Reddy,COVID-19,41,27736.17,Credit Card,Admitted,Child,September,#VALUE!,Saturday,Normal
+ER0083,Tarak Bali,87,Female,A+,16-04-2025,17:58,17-04-2025 23:58,Cardiology,Dr. Iyer,Heart Attack,80,44352.44,Government Scheme,Discharged,Senior,April,#VALUE!,Wednesday,Slow
+ER0084,Chandran Ramesh,82,Female,A-,17-08-2025,13:14,18-08-2025 13:14,Gynecology,Dr. Nair,Asthma,24,35005.41,Credit Card,Discharged,Senior,August,#VALUE!,Sunday,Fast
+ER0085,Meghana Kurian,53,Other,AB-,17-01-2026,23:30,18-01-2026 20:30,Emergency,Dr. Verma,Dengue,20,80368.85,Insurance,Discharged,Middle Aged,January,#VALUE!,Saturday,Fast
+ER0086,Daniel Bhavsar,42,Male,AB+,18-07-2025,01:13,19-07-2025 18:13,Pediatrics,Dr. Sharma,Dengue,24,73961.55,Not Specified,Discharged,Middle Aged,July,#VALUE!,Friday,Fast
+ER0087,Varsha Raval,80,Female,AB-,24-07-2025,20:43,25-07-2025 21:43,Emergency,Dr. Sharma,Migraine,57,23066.25,Cash,Discharged,Senior,July,#VALUE!,Thursday,Normal
+ER0088,Yamini Thakur,16,Male,B-,20-09-2025,01:29,22-09-2025 10:29,ENT,Dr. Iyer,Fever,40,47045.9,Government Scheme,Admitted,Teen,September,#VALUE!,Saturday,Normal
+ER0089,Xiti Ramesh,16,Other,B+,11-05-2025,11:58,12-05-2025 02:58,ENT,Dr. Nair,COVID-19,24,25162.3,Not Specified,Discharged,Teen,May,#VALUE!,Sunday,Fast
+ER0090,Aditya Oza,32,Female,B+,09-10-2025,13:00,Still Admitted,ENT,Dr. Reddy,Migraine,45,78397.86,Cash,Discharged,Adult,October,#VALUE!,Thursday,Normal
+ER0091,Dalaja Dada,44,Other,O+,29-05-2025,20:00,31-05-2025 08:00,Gynecology,Dr. Sharma,Fever,35,61851.31,Government Scheme,Discharged,Middle Aged,May,#VALUE!,Thursday,Normal
+ER0092,Neha Tata,45,Female,AB+,31-03-2025,21:20,03-04-2025 07:20,ENT,Dr. Nair,Asthma,59,73981.34,Cash,Discharged,Middle Aged,March,#VALUE!,Monday,Normal
+ER0093,Darika Varghese,6,Female,AB-,23-07-2025,08:41,24-07-2025 14:41,Gynecology,Dr. Reddy,Stroke,21,84020.98,Cash,Discharged,Child,July,#VALUE!,Wednesday,Fast
+ER0094,Mekhala Ramachandran,65,Other,O-,24-02-2026,20:39,25-02-2026 01:39,Neurology,Dr. Patel,Heart Attack,27,8925.64,Government Scheme,Admitted,Senior,February,#VALUE!,Tuesday,Fast
+ER0095,Abhimanyu Gill,84,Male,A-,18-08-2025,10:37,19-08-2025 05:37,Gynecology,Dr. Nair,Hypertension,26,82397.71,Not Specified,Discharged,Senior,August,#VALUE!,Monday,Fast
+ER0096,Bina Muni,43,Other,AB+,26-07-2025,22:02,29-07-2025 01:02,Orthopedics,Dr. Singh,Dengue,13,61231.62,Government Scheme,Discharged,Middle Aged,July,#VALUE!,Saturday,Fast
+ER0097,Ira Chaudhuri,31,Other,O+,25-09-2025,12:49,25-09-2025 17:49,Orthopedics,Dr. Khan,COVID-19,39,8137.05,Insurance,Discharged,Adult,September,#VALUE!,Thursday,Normal
+ER0098,Caleb Pradhan,22,Other,O+,19-10-2025,02:26,19-10-2025 15:26,ENT,Dr. Sharma,Chest Pain,38,27909.66,Insurance,Admitted,Adult,October,#VALUE!,Sunday,Normal
+ER0099,Jack Dhawan,19,Male,AB+,29-08-2025,23:13,31-08-2025 23:13,Gynecology,Dr. Iyer,Appendicitis,33,15293.36,Government Scheme,Discharged,Adult,August,#VALUE!,Friday,Normal
+ER0100,Raghav Kamdar,75,Male,B-,02-02-2026,18:34,04-02-2026 01:34,ENT,Dr. Nair,Dengue,28,21961.09,Credit Card,Discharged,Senior,February,#VALUE!,Monday,Fast
+ER0101,Dalaja Kari,87,Other,B+,23-03-2025,19:08,26-03-2025 07:08,Pediatrics,Dr. Patel,Heart Attack,14,80372.41,Credit Card,Discharged,Senior,March,#VALUE!,Sunday,Fast
+ER0102,Zaitra Gara,59,Female,B-,28-12-2025,11:48,30-12-2025 18:48,Pediatrics,Dr. Reddy,Heart Attack,25,9512.2,Government Scheme,Discharged,Middle Aged,December,#VALUE!,Sunday,Fast
+ER0103,Abdul Date,3,Other,AB+,05-08-2025,23:02,07-08-2025 13:02,Pediatrics,Dr. Verma,Chest Pain,26,48321,Insurance,Discharged,Child,August,#VALUE!,Tuesday,Fast
+ER0104,Mahika Maharaj,30,Other,O-,15-10-2025,04:17,17-10-2025 20:17,Pediatrics,Dr. Khan,Dengue,20,16566.15,Credit Card,Discharged,Adult,October,#VALUE!,Wednesday,Fast
+ER0105,Jagdish Pillai,81,Other,A+,18-02-2026,06:13,19-02-2026 00:13,Orthopedics,Dr. Verma,Hypertension,30,37749.56,Credit Card,Discharged,Senior,February,#VALUE!,Wednesday,Fast
+ER0106,Chaaya Bhatti,42,Other,AB+,14-03-2026,05:51,14-03-2026 17:51,Pediatrics,Dr. Iyer,Migraine,42,11667.5,Credit Card,Discharged,Middle Aged,March,#VALUE!,Saturday,Normal
+ER0107,Bachittar Chaudhry,33,Female,Unknown,04-02-2026,10:56,Still Admitted,Neurology,Dr. Singh,Hypertension,102,10231.84,Insurance,Admitted,Adult,February,#VALUE!,Wednesday,Slow
+ER0108,Nisha Shere,72,Female,A-,13-05-2025,01:56,14-05-2025 06:56,Gynecology,Dr. Reddy,Chest Pain,36,22846.75,Insurance,Discharged,Senior,May,#VALUE!,Tuesday,Normal
+ER0109,Anirudh Krishna,82,Female,A-,26-11-2025,01:02,27-11-2025 11:02,Gynecology,Dr. Khan,Heart Attack,38,2614.58,Credit Card,Discharged,Senior,November,#VALUE!,Wednesday,Normal
+ER0110,Amol Krishna,82,Female,O+,16-11-2025,21:35,18-11-2025 02:35,Orthopedics,Dr. Reddy,Fracture,31,12311.16,Insurance,Admitted,Senior,November,#VALUE!,Sunday,Normal
+ER0111,Yatin Wason,13,Male,B+,08-03-2026,19:41,11-03-2026 11:41,Orthopedics,Dr. Reddy,Heart Attack,10,31850.47,Government Scheme,Discharged,Teen,March,#VALUE!,Sunday,Fast
+ER0112,Jacob Sheth,84,Male,AB-,08-03-2026,20:11,09-03-2026 16:11,Gynecology,Dr. Reddy,Fever,32,3264.53,Credit Card,Admitted,Senior,March,#VALUE!,Sunday,Normal
+ER0113,Falak Keer,47,Male,O-,23-02-2026,05:08,25-02-2026 14:08,General Medicine,Dr. Singh,Chest Pain,34,34142.8,Cash,Discharged,Middle Aged,February,#VALUE!,Monday,Normal
+ER0114,Bina Garde,85,Male,A+,19-04-2025,17:43,22-04-2025 04:43,Orthopedics,Dr. Sharma,Hypertension,145,28681.52,Cash,Discharged,Senior,April,#VALUE!,Saturday,Critical
+ER0115,Aryan Char,71,Male,B-,13-08-2025,07:24,14-08-2025 10:24,Orthopedics,Dr. Khan,Asthma,29,65934.14,Insurance,Admitted,Senior,August,#VALUE!,Wednesday,Fast
+ER0116,Rajata Pant,70,Female,B+,15-11-2025,20:33,Still Admitted,Neurology,Dr. Patel,Dengue,39,73714.85,Cash,Admitted,Senior,November,#VALUE!,Saturday,Normal
+ER0117,Suhani Comar,3,Male,O+,22-03-2025,08:45,23-03-2025 15:45,Emergency,Dr. Sharma,Appendicitis,32,63175.18,Insurance,Discharged,Child,March,#VALUE!,Saturday,Normal
+ER0118,Arya Vig,47,Other,A-,02-02-2026,04:40,04-02-2026 17:40,ENT,Dr. Nair,Kidney Stones,16,19220.95,Insurance,Discharged,Middle Aged,February,#VALUE!,Monday,Fast
+ER0119,Charles Madan,59,Other,A+,05-03-2026,03:30,07-03-2026 22:30,Pediatrics,Dr. Sharma,Heart Attack,65,72096.73,Government Scheme,Discharged,Middle Aged,March,#VALUE!,Thursday,Slow
+ER0120,Maanav Hayre,10,Male,O-,29-05-2025,17:43,01-06-2025 08:43,ENT,Dr. Iyer,Fracture,51,11163.19,Credit Card,Admitted,Child,May,#VALUE!,Thursday,Normal
+ER0121,Udant Saha,59,Other,AB+,15-12-2025,17:59,18-12-2025 13:59,Pediatrics,Dr. Patel,Hypertension,53,59800.36,Cash,Discharged,Middle Aged,December,#VALUE!,Monday,Normal
+ER0122,Yashawini Pall,44,Female,AB+,18-06-2025,21:54,20-06-2025 03:54,Gynecology,Dr. Reddy,COVID-19,19,8534.75,Government Scheme,Admitted,Middle Aged,June,#VALUE!,Wednesday,Fast
+ER0123,Jonathan Sem,20,Other,AB-,23-06-2025,13:13,24-06-2025 22:13,Emergency,Dr. Patel,Fracture,76,70784.72,Not Specified,Discharged,Adult,June,#VALUE!,Monday,Slow
+ER0124,Upasna Chad,72,Male,O-,17-06-2025,13:05,19-06-2025 13:05,Neurology,Dr. Patel,Stroke,14,30379.04,Government Scheme,Discharged,Senior,June,#VALUE!,Tuesday,Fast
+ER0125,Zaitra Vala,77,Female,O-,06-11-2025,04:45,06-11-2025 11:45,Pediatrics,Dr. Patel,Pneumonia,47,43376.36,Cash,Discharged,Senior,November,#VALUE!,Thursday,Normal
+ER0126,Wriddhish Dewan,45,Other,O-,19-11-2025,04:22,Still Admitted,Orthopedics,Dr. Patel,Hypertension,123,24039.01,Cash,Discharged,Middle Aged,November,#VALUE!,Wednesday,Critical
+ER0127,Zansi Tara,78,Other,O+,01-07-2025,10:42,04-07-2025 10:42,Cardiology,Dr. Sharma,Appendicitis,18,23591.35,Credit Card,Discharged,Senior,July,#VALUE!,Tuesday,Fast
+ER0128,Bhavika Garg,24,Male,AB+,10-04-2025,22:53,12-04-2025 19:53,Cardiology,Dr. Patel,Appendicitis,23,63111.89,Insurance,Admitted,Adult,April,#VALUE!,Thursday,Fast
+ER0129,Samar Bajwa,49,Female,AB-,12-02-2026,06:37,15-02-2026 02:37,General Medicine,Dr. Singh,Appendicitis,35,31769.49,Credit Card,Discharged,Middle Aged,February,#VALUE!,Thursday,Normal
+ER0130,Samar Sur,20,Male,A+,06-09-2025,17:47,07-09-2025 04:47,Cardiology,Dr. Patel,Fever,24,37943.05,Government Scheme,Discharged,Adult,September,#VALUE!,Saturday,Fast
+ER0131,Gunbir Prasad,35,Male,A-,08-01-2026,04:32,Still Admitted,Gynecology,Dr. Singh,Stroke,13,9870.19,Government Scheme,Discharged,Adult,January,#VALUE!,Thursday,Fast
+ER0132,Ganga Bali,29,Female,A+,27-12-2025,20:17,29-12-2025 12:17,Cardiology,Dr. Sharma,Migraine,34,25969.94,Cash,Discharged,Adult,December,#VALUE!,Saturday,Normal
+ER0133,Maanas Dalal,42,Male,A+,19-09-2025,08:52,20-09-2025 17:52,Pediatrics,Dr. Nair,COVID-19,17,36890.35,Cash,Admitted,Middle Aged,September,#VALUE!,Friday,Fast
+ER0134,Falan Kakar,10,Female,A+,11-06-2025,04:25,12-06-2025 10:25,Emergency,Dr. Reddy,Chest Pain,43,39349.23,Insurance,Discharged,Child,June,#VALUE!,Wednesday,Normal
+ER0135,Tejas Bhardwaj,82,Female,O+,18-06-2025,19:21,21-06-2025 02:21,Gynecology,Dr. Patel,Stroke,19,2262.38,Credit Card,Admitted,Senior,June,#VALUE!,Wednesday,Fast
+ER0136,Falak Sehgal,12,Female,A-,21-04-2025,17:57,24-04-2025 04:57,Emergency,Dr. Khan,Stroke,83,50259.62,Insurance,Admitted,Child,April,#VALUE!,Monday,Slow
+ER0137,Maanas Sibal,29,Female,Unknown,27-10-2025,19:02,29-10-2025 11:02,Emergency,Dr. Patel,Kidney Stones,20,54007.48,Not Specified,Discharged,Adult,October,#VALUE!,Monday,Fast
+ER0138,Waida Kari,83,Male,B-,06-07-2025,19:06,08-07-2025 16:06,Emergency,Dr. Patel,Appendicitis,27,22129.31,Cash,Discharged,Senior,July,#VALUE!,Sunday,Fast
+ER0139,Vedant Oza,81,Female,AB-,04-06-2025,11:41,04-06-2025 21:41,Neurology,Dr. Nair,Dengue,53,78591.03,Credit Card,Discharged,Senior,June,#VALUE!,Wednesday,Normal
+ER0140,Harsh Boase,57,Male,AB-,07-01-2026,18:02,09-01-2026 11:02,Neurology,Dr. Nair,Dengue,15,26088.33,Credit Card,Discharged,Middle Aged,January,#VALUE!,Wednesday,Fast
+ER0141,Tripti Soman,40,Female,AB-,29-01-2026,04:58,31-01-2026 02:58,Orthopedics,Dr. Sharma,Chest Pain,37,31658.33,Credit Card,Admitted,Adult,January,#VALUE!,Thursday,Normal
+ER0142,Chakrika Palla,60,Other,A+,02-01-2026,09:56,02-01-2026 21:56,Gynecology,Dr. Nair,Hypertension,72,48804.99,Not Specified,Admitted,Middle Aged,January,#VALUE!,Friday,Slow
+ER0143,Michael Gupta,8,Female,A-,17-07-2025,09:28,Still Admitted,Neurology,Dr. Singh,COVID-19,12,7625.81,Cash,Admitted,Child,July,#VALUE!,Thursday,Fast
+ER0144,Anusha Varma,68,Other,B+,08-01-2026,13:28,10-01-2026 22:28,ENT,Dr. Singh,Asthma,36,78065.66,Government Scheme,Discharged,Senior,January,#VALUE!,Thursday,Normal
+ER0145,Isaac Dixit,81,Other,O-,20-11-2025,14:47,22-11-2025 10:47,Cardiology,Dr. Patel,Asthma,38,8485.75,Government Scheme,Admitted,Senior,November,#VALUE!,Thursday,Normal
+ER0146,Daksha Ray,11,Other,B+,21-05-2025,17:26,22-05-2025 13:26,Emergency,Dr. Singh,Fever,52,82270.35,Government Scheme,Admitted,Child,May,#VALUE!,Wednesday,Normal
+ER0147,Omya Chaudhry,72,Female,O-,02-12-2025,05:28,02-12-2025 16:28,Pediatrics,Dr. Iyer,Dengue,15,59889.21,Insurance,Discharged,Senior,December,#VALUE!,Tuesday,Fast
+ER0148,Om Kala,3,Female,O+,14-08-2025,16:37,16-08-2025 23:37,Emergency,Dr. Iyer,Migraine,14,29376.38,Government Scheme,Admitted,Child,August,#VALUE!,Thursday,Fast
+ER0149,Chaman Seth,10,Female,A-,17-03-2026,00:03,17-03-2026 18:03,Neurology,Dr. Sharma,Dengue,45,28956.59,Cash,Discharged,Child,March,#VALUE!,Tuesday,Normal
+ER0150,Robert Ben,24,Other,B+,25-03-2025,15:09,26-03-2025 11:09,Neurology,Dr. Nair,Chest Pain,39,35217.55,Cash,Discharged,Adult,March,#VALUE!,Tuesday,Normal
+ER0151,Tripti Vala,30,Other,B-,12-04-2025,17:22,14-04-2025 06:22,ENT,Dr. Verma,Hypertension,38,66779.29,Cash,Admitted,Adult,April,#VALUE!,Saturday,Normal
+ER0152,Shivansh Viswanathan,37,Female,AB+,22-02-2026,18:46,25-02-2026 03:46,ENT,Dr. Iyer,Migraine,40,68206.4,Cash,Discharged,Adult,February,#VALUE!,Sunday,Normal
+ER0153,Madhavi Tandon,48,Other,A-,04-10-2025,22:47,05-10-2025 05:47,ENT,Dr. Patel,Fever,22,7587.45,Cash,Admitted,Middle Aged,October,#VALUE!,Saturday,Fast
+ER0154,Omya Sagar,56,Male,B-,14-07-2025,04:09,16-07-2025 22:09,Neurology,Dr. Nair,Asthma,38,79124.88,Government Scheme,Admitted,Middle Aged,July,#VALUE!,Monday,Normal
+ER0155,Vrinda Gandhi,31,Female,A-,02-10-2025,09:54,05-10-2025 02:54,Emergency,Dr. Singh,Migraine,39,2881.85,Insurance,Discharged,Adult,October,#VALUE!,Thursday,Normal
+ER0156,Avi Ramaswamy,18,Male,O+,13-05-2025,10:32,15-05-2025 05:32,Neurology,Dr. Nair,COVID-19,21,70728.84,Not Specified,Discharged,Adult,May,#VALUE!,Tuesday,Fast
+ER0157,Jhalak Bose,3,Female,B-,13-01-2026,02:32,13-01-2026 03:32,Orthopedics,Dr. Iyer,Kidney Stones,101,79949.09,Government Scheme,Admitted,Child,January,#VALUE!,Tuesday,Slow
+ER0158,Urvi Ravi,39,Male,A+,26-02-2026,10:22,27-02-2026 23:22,General Medicine,Dr. Khan,Stroke,44,54491.42,Government Scheme,Admitted,Adult,February,#VALUE!,Thursday,Normal
+ER0159,Sarthak Morar,81,Other,B-,18-01-2026,19:20,21-01-2026 11:20,Cardiology,Dr. Iyer,Fever,16,36770.69,Credit Card,Admitted,Senior,January,#VALUE!,Sunday,Fast
+ER0160,Gaurangi Sachar,86,Other,A-,16-09-2025,15:09,18-09-2025 21:09,Neurology,Dr. Singh,Fracture,49,81062.61,Insurance,Admitted,Senior,September,#VALUE!,Tuesday,Normal
+ER0161,Girindra Biswas,82,Female,O-,30-05-2025,19:13,02-06-2025 08:13,Cardiology,Dr. Verma,COVID-19,18,1872.47,Insurance,Admitted,Senior,May,#VALUE!,Friday,Fast
+ER0162,Bimala Banik,18,Male,O-,10-11-2025,00:39,10-11-2025 14:39,Emergency,Dr. Singh,Dengue,53,15295.03,Government Scheme,Discharged,Adult,November,#VALUE!,Monday,Normal
+ER0163,Veer Sane,18,Male,AB-,07-08-2025,19:27,10-08-2025 09:27,Neurology,Dr. Sharma,Fever,66,17534.44,Cash,Discharged,Adult,August,#VALUE!,Thursday,Slow
+ER0164,Eiravati Bera,66,Female,Unknown,01-01-2026,18:15,03-01-2026 11:15,Pediatrics,Dr. Verma,Chest Pain,20,64153.08,Cash,Admitted,Senior,January,#VALUE!,Thursday,Fast
+ER0165,Aadhya Ganesh,35,Male,O-,29-12-2025,17:49,30-12-2025 00:49,Emergency,Dr. Reddy,Stroke,59,63309.5,Government Scheme,Admitted,Adult,December,#VALUE!,Monday,Normal
+ER0166,Kashvi Sangha,89,Female,O-,07-03-2026,18:10,08-03-2026 18:10,ENT,Dr. Verma,Hypertension,42,7480.67,Government Scheme,Admitted,Senior,March,#VALUE!,Saturday,Normal
+ER0167,Baljiwan Chandra,42,Male,A-,14-12-2025,05:29,15-12-2025 05:29,Pediatrics,Dr. Singh,Dengue,54,25481.58,Government Scheme,Discharged,Middle Aged,December,#VALUE!,Sunday,Normal
+ER0168,Rachita Kala,89,Female,O-,27-12-2025,16:30,29-12-2025 23:30,Neurology,Dr. Nair,Chest Pain,103,61915.82,Credit Card,Discharged,Senior,December,#VALUE!,Saturday,Slow
+ER0169,Rehaan Rege,82,Male,A-,05-09-2025,09:21,07-09-2025 17:21,Pediatrics,Dr. Reddy,Asthma,28,43855.77,Not Specified,Discharged,Senior,September,#VALUE!,Friday,Fast
+ER0170,Maya Palla,5,Male,A-,15-03-2026,21:19,16-03-2026 16:19,ENT,Dr. Khan,Hypertension,21,55016.26,Credit Card,Admitted,Child,March,#VALUE!,Sunday,Fast
+ER0171,Ishwar Sant,87,Female,O-,12-12-2025,17:28,12-12-2025 22:28,Neurology,Dr. Singh,Heart Attack,19,64980.64,Cash,Discharged,Senior,December,#VALUE!,Friday,Fast
+ER0172,Nidhi Prashad,84,Female,B-,01-11-2025,15:46,03-11-2025 18:46,Emergency,Dr. Patel,Chest Pain,20,62664.53,Government Scheme,Discharged,Senior,November,#VALUE!,Saturday,Fast
+ER0173,Wazir Vig,34,Female,AB-,02-12-2025,03:26,05-12-2025 03:26,Orthopedics,Dr. Khan,Pneumonia,31,24631.25,Government Scheme,Admitted,Adult,December,#VALUE!,Tuesday,Normal
+ER0174,Varenya Saran,58,Male,AB-,16-04-2025,23:38,17-04-2025 17:38,Orthopedics,Dr. Patel,Hypertension,40,58123.02,Credit Card,Discharged,Middle Aged,April,#VALUE!,Wednesday,Normal
+ER0175,Rayaan Lad,39,Male,B+,13-07-2025,17:38,14-07-2025 02:38,Pediatrics,Dr. Singh,Kidney Stones,39,19448.42,Cash,Discharged,Adult,July,#VALUE!,Sunday,Normal
+ER0176,Jai Mander,4,Female,O-,24-01-2026,01:07,25-01-2026 08:07,ENT,Dr. Nair,Hypertension,54,83564.51,Cash,Discharged,Child,January,#VALUE!,Saturday,Normal
+ER0177,Advik Kapur,40,Female,AB-,02-12-2025,17:02,03-12-2025 05:02,Orthopedics,Dr. Reddy,Hypertension,33,35097.13,Insurance,Admitted,Adult,December,#VALUE!,Tuesday,Normal
+ER0178,Hemani Tella,58,Female,O-,19-01-2026,15:33,21-01-2026 08:33,Orthopedics,Dr. Iyer,Hypertension,79,47085.14,Cash,Discharged,Middle Aged,January,#VALUE!,Monday,Slow
+ER0179,Ayush Nayar,65,Male,A-,21-12-2025,18:49,22-12-2025 11:49,Gynecology,Dr. Iyer,Fever,28,14413.52,Credit Card,Discharged,Senior,December,#VALUE!,Sunday,Fast
+ER0180,Rayaan Agate,67,Female,A-,01-09-2025,14:50,02-09-2025 19:50,Emergency,Dr. Verma,Migraine,169,54162.32,Credit Card,Admitted,Senior,September,#VALUE!,Monday,Critical
+ER0181,Praneel Chacko,65,Other,B+,30-03-2025,23:35,01-04-2025 14:35,Orthopedics,Dr. Iyer,Appendicitis,48,56162.93,Credit Card,Discharged,Senior,March,#VALUE!,Sunday,Normal
+ER0182,Vedhika Kapoor,11,Male,O+,12-11-2025,10:40,Still Admitted,Cardiology,Dr. Khan,Hypertension,19,48845.59,Insurance,Discharged,Child,November,#VALUE!,Wednesday,Fast
+ER0183,Girik Sen,83,Female,Unknown,05-11-2025,18:51,08-11-2025 16:51,Pediatrics,Dr. Khan,Hypertension,17,68721.02,Government Scheme,Admitted,Senior,November,#VALUE!,Wednesday,Fast
+ER0184,Vedika Wali,21,Female,AB+,08-02-2026,23:24,09-02-2026 09:24,Cardiology,Dr. Nair,Heart Attack,44,17739.94,Cash,Admitted,Adult,February,#VALUE!,Sunday,Normal
+ER0185,Urishilla Minhas,52,Male,O-,05-01-2026,17:38,07-01-2026 10:38,Emergency,Dr. Patel,Asthma,28,20926.85,Insurance,Admitted,Middle Aged,January,#VALUE!,Monday,Fast
+ER0186,Eiravati Modi,13,Male,O+,19-03-2026,16:37,21-03-2026 00:37,Neurology,Dr. Reddy,Pneumonia,50,35832.39,Cash,Discharged,Teen,March,#VALUE!,Thursday,Normal
+ER0187,Nicholas Chand,21,Female,AB-,04-08-2025,18:26,06-08-2025 11:26,General Medicine,Dr. Nair,Fever,43,42527.79,Insurance,Discharged,Adult,August,#VALUE!,Monday,Normal
+ER0188,Harinakshi Anne,31,Male,O-,27-11-2025,11:09,30-11-2025 04:09,ENT,Dr. Sharma,Chest Pain,31,24274.61,Government Scheme,Admitted,Adult,November,#VALUE!,Thursday,Normal
+ER0189,Gayathri Kapadia,56,Male,O+,04-11-2025,20:31,04-11-2025 22:31,Orthopedics,Dr. Singh,Hypertension,19,34574.97,Insurance,Discharged,Middle Aged,November,#VALUE!,Tuesday,Fast
+ER0190,Chameli Chad,47,Other,O+,28-12-2025,18:38,31-12-2025 18:38,General Medicine,Dr. Patel,Stroke,13,43109.59,Credit Card,Discharged,Middle Aged,December,#VALUE!,Sunday,Fast
+ER0191,Zayan Bir,13,Female,O-,12-01-2026,15:57,13-01-2026 07:57,Neurology,Dr. Singh,Kidney Stones,25,79841.15,Cash,Admitted,Teen,January,#VALUE!,Monday,Fast
+ER0192,Alka Khanna,65,Male,A+,21-01-2026,22:39,Still Admitted,Gynecology,Dr. Sharma,Appendicitis,55,60798.51,Government Scheme,Discharged,Senior,January,#VALUE!,Wednesday,Normal
+ER0193,Nilima Shroff,42,Other,O-,10-08-2025,15:42,11-08-2025 11:42,Neurology,Dr. Iyer,Stroke,37,84207.03,Credit Card,Discharged,Middle Aged,August,#VALUE!,Sunday,Normal
+ER0194,Sneha Chowdhury,73,Female,AB-,14-09-2025,09:30,17-09-2025 02:30,ENT,Dr. Sharma,Asthma,15,28489.75,Insurance,Discharged,Senior,September,#VALUE!,Sunday,Fast
+ER0195,Urvi Sharaf,77,Female,O+,25-10-2025,21:53,27-10-2025 13:53,Cardiology,Dr. Khan,COVID-19,36,4839.51,Government Scheme,Admitted,Senior,October,#VALUE!,Saturday,Normal
+ER0196,Tanish Pal,88,Male,A+,15-03-2026,23:35,18-03-2026 00:35,Neurology,Dr. Patel,Migraine,41,2100.21,Credit Card,Discharged,Senior,March,#VALUE!,Sunday,Normal
+ER0197,Yashodhara Sodhi,53,Other,AB-,24-11-2025,19:56,27-11-2025 00:56,General Medicine,Dr. Sharma,COVID-19,19,12167.97,Cash,Discharged,Middle Aged,November,#VALUE!,Monday,Fast
+ER0198,Harrison Pandit,41,Male,AB-,16-06-2025,04:10,18-06-2025 18:10,Gynecology,Dr. Singh,Kidney Stones,36,30437.25,Credit Card,Discharged,Middle Aged,June,#VALUE!,Monday,Normal
+ER0199,Wyatt Warrior,36,Other,Unknown,30-07-2025,22:22,31-07-2025 23:22,General Medicine,Dr. Khan,Fever,34,65664.23,Cash,Discharged,Adult,July,#VALUE!,Wednesday,Normal
+ER0200,Champak Walia,62,Female,O+,12-10-2025,01:09,14-10-2025 16:09,Emergency,Dr. Verma,Fracture,16,48958.79,Government Scheme,Discharged,Senior,October,#VALUE!,Sunday,Fast
+ER0201,Zaitra Bava,19,Female,A+,20-11-2025,02:27,22-11-2025 05:27,Emergency,Dr. Verma,COVID-19,41,7177.99,Government Scheme,Discharged,Adult,November,#VALUE!,Thursday,Normal
+ER0202,Hemani Chander,26,Other,O+,20-10-2025,10:28,23-10-2025 00:28,General Medicine,Dr. Verma,Appendicitis,46,9729.65,Cash,Admitted,Adult,October,#VALUE!,Monday,Normal
+ER0203,Pooja Natt,82,Male,A+,04-06-2025,01:48,06-06-2025 21:48,General Medicine,Dr. Patel,Stroke,63,28409.81,Government Scheme,Admitted,Senior,June,#VALUE!,Wednesday,Slow
+ER0204,Frederick Bhardwaj,71,Male,AB+,22-04-2025,04:39,22-04-2025 22:39,Cardiology,Dr. Nair,Heart Attack,62,55470.52,Credit Card,Admitted,Senior,April,#VALUE!,Tuesday,Slow
+ER0205,Yashodhara Dash,84,Other,B-,11-06-2025,16:09,12-06-2025 00:09,Orthopedics,Dr. Sharma,Appendicitis,14,35811.28,Cash,Discharged,Senior,June,#VALUE!,Wednesday,Fast
+ER0206,Ansh Prakash,64,Male,O+,31-10-2025,12:48,31-10-2025 17:48,Gynecology,Dr. Sharma,Chest Pain,18,25714.14,Insurance,Discharged,Senior,October,#VALUE!,Friday,Fast
+ER0207,Ishita Agarwal,59,Other,AB-,02-07-2025,12:36,04-07-2025 07:36,Pediatrics,Dr. Iyer,Kidney Stones,45,40047.75,Cash,Discharged,Middle Aged,July,#VALUE!,Wednesday,Normal
+ER0208,Dhriti Lal,59,Other,O+,15-07-2025,02:34,16-07-2025 21:34,Neurology,Dr. Iyer,Chest Pain,45,62744.21,Credit Card,Discharged,Middle Aged,July,#VALUE!,Tuesday,Normal
+ER0209,Zashil Dutta,79,Other,AB+,22-10-2025,03:27,23-10-2025 04:27,Neurology,Dr. Reddy,Kidney Stones,45,28209.8,Not Specified,Discharged,Senior,October,#VALUE!,Wednesday,Normal
+ER0210,Rishi Patla,62,Female,B-,16-04-2025,07:57,17-04-2025 07:57,Neurology,Dr. Sharma,Fever,334,32912.04,Government Scheme,Discharged,Senior,April,#VALUE!,Wednesday,Critical
+ER0211,Yashawini Walia,75,Other,A+,20-09-2025,16:55,22-09-2025 11:55,Pediatrics,Dr. Verma,Dengue,46,30882.15,Cash,Admitted,Senior,September,#VALUE!,Saturday,Normal
+ER0212,Sudiksha Dora,40,Male,AB+,18-01-2026,04:16,18-01-2026 20:16,ENT,Dr. Verma,COVID-19,65,10421.63,Credit Card,Admitted,Adult,January,#VALUE!,Sunday,Slow
+ER0213,Raagini Dhaliwal,18,Female,B+,04-03-2026,16:33,05-03-2026 21:33,General Medicine,Dr. Nair,COVID-19,58,84056.81,Credit Card,Discharged,Adult,March,#VALUE!,Wednesday,Normal
+ER0214,Gautam Saran,69,Other,B-,25-07-2025,00:00,27-07-2025 23:00,ENT,Dr. Khan,Dengue,48,64275.49,Insurance,Discharged,Senior,July,#VALUE!,Friday,Normal
+ER0215,Quincy Kuruvilla,10,Other,A-,15-08-2025,07:57,18-08-2025 03:57,Emergency,Dr. Sharma,Kidney Stones,27,76794.05,Cash,Discharged,Child,August,#VALUE!,Friday,Fast
+ER0216,Abdul Vaidya,42,Other,AB-,29-07-2025,14:54,30-07-2025 10:54,Neurology,Dr. Patel,Dengue,52,17856.43,Government Scheme,Admitted,Middle Aged,July,#VALUE!,Tuesday,Normal
+ER0217,Noah Chaudhry,8,Female,Unknown,12-03-2026,10:31,15-03-2026 04:31,ENT,Dr. Reddy,Heart Attack,20,48150.5,Government Scheme,Discharged,Child,March,#VALUE!,Thursday,Fast
+ER0218,Vasudha Madan,51,Female,A+,14-08-2025,07:24,15-08-2025 23:24,Cardiology,Dr. Khan,Pneumonia,28,6670.99,Government Scheme,Admitted,Middle Aged,August,#VALUE!,Thursday,Fast
+ER0219,Janya Khatri,9,Female,A+,05-10-2025,12:20,05-10-2025 21:20,Cardiology,Dr. Verma,Stroke,24,15708.42,Cash,Discharged,Child,October,#VALUE!,Sunday,Fast
+ER0220,Yashasvi Yogi,49,Female,AB+,14-04-2025,13:43,16-04-2025 19:43,Emergency,Dr. Reddy,Fracture,34,58190.71,Cash,Discharged,Middle Aged,April,#VALUE!,Monday,Normal
+ER0221,Vansha Iyengar,23,Other,Unknown,16-02-2026,04:20,18-02-2026 01:20,Orthopedics,Dr. Iyer,COVID-19,132,83202.21,Insurance,Discharged,Adult,February,#VALUE!,Monday,Critical
+ER0222,Owen Gera,87,Other,AB+,22-05-2025,05:53,23-05-2025 20:53,ENT,Dr. Reddy,Migraine,10,21414.77,Credit Card,Admitted,Senior,May,#VALUE!,Thursday,Fast
+ER0223,Amol Korpal,5,Other,AB+,21-07-2025,02:11,22-07-2025 03:11,Orthopedics,Dr. Sharma,Migraine,49,17913.9,Insurance,Discharged,Child,July,#VALUE!,Monday,Normal
+ER0224,Yatin Tara,32,Other,A+,16-07-2025,01:41,18-07-2025 11:41,Cardiology,Dr. Reddy,Heart Attack,12,20301.67,Cash,Discharged,Adult,July,#VALUE!,Wednesday,Fast
+ER0225,Bhanumati Lal,65,Female,Unknown,31-10-2025,00:52,31-10-2025 08:52,Neurology,Dr. Singh,Pneumonia,24,51024.04,Credit Card,Admitted,Senior,October,#VALUE!,Friday,Fast
+ER0226,Tanay Puri,53,Female,O+,08-11-2025,09:02,09-11-2025 04:02,General Medicine,Dr. Sharma,Kidney Stones,63,80649.96,Cash,Discharged,Middle Aged,November,#VALUE!,Saturday,Slow
+ER0227,Chandani Chander,7,Female,AB+,06-01-2026,22:23,09-01-2026 05:23,ENT,Dr. Singh,COVID-19,34,35679.43,Cash,Admitted,Child,January,#VALUE!,Tuesday,Normal
+ER0228,Lekha D’Alia,31,Male,O+,30-08-2025,01:52,31-08-2025 01:52,ENT,Dr. Iyer,Hypertension,17,39625.63,Insurance,Discharged,Adult,August,#VALUE!,Saturday,Fast
+ER0229,Chasmum Rama,50,Male,O+,03-08-2025,06:05,05-08-2025 12:05,Neurology,Dr. Khan,Asthma,21,55146.64,Not Specified,Discharged,Middle Aged,August,#VALUE!,Sunday,Fast
+ER0230,Manya Kota,7,Female,AB+,10-08-2025,21:40,11-08-2025 09:40,General Medicine,Dr. Sharma,Fracture,49,16399.8,Cash,Discharged,Child,August,#VALUE!,Sunday,Normal
+ER0231,Benjamin Goda,2,Male,B-,04-06-2025,04:59,05-06-2025 23:59,Pediatrics,Dr. Patel,COVID-19,21,84963.83,Government Scheme,Discharged,Child,June,#VALUE!,Wednesday,Fast
+ER0232,Chakradhar Din,31,Other,O-,04-12-2025,09:32,05-12-2025 12:32,Gynecology,Dr. Verma,Stroke,37,39898.16,Credit Card,Admitted,Adult,December,#VALUE!,Thursday,Normal
+ER0233,Damyanti Vohra,60,Male,AB-,17-01-2026,16:51,19-01-2026 15:51,ENT,Dr. Singh,Migraine,34,31824.57,Government Scheme,Admitted,Middle Aged,January,#VALUE!,Saturday,Normal
+ER0234,Sanaya Sampath,3,Female,AB+,14-05-2025,12:01,15-05-2025 17:01,Neurology,Dr. Verma,Appendicitis,22,17078.21,Cash,Admitted,Child,May,#VALUE!,Wednesday,Fast
+ER0235,Kai Sethi,71,Other,O-,18-10-2025,03:27,19-10-2025 11:27,ENT,Dr. Verma,Hypertension,119,69924.52,Government Scheme,Discharged,Senior,October,#VALUE!,Saturday,Slow
+ER0236,Upkaar Bhatti,18,Other,AB-,24-03-2025,04:47,26-03-2025 02:47,Neurology,Dr. Iyer,Kidney Stones,48,84182.34,Insurance,Discharged,Adult,March,#VALUE!,Monday,Normal
+ER0237,Sathvik Gaba,1,Female,B+,27-01-2026,09:57,27-01-2026 19:57,Cardiology,Dr. Khan,Fracture,9,60255.83,Insurance,Admitted,Child,January,#VALUE!,Tuesday,Fast
+ER0238,Xalak Chokshi,8,Other,AB-,05-11-2025,11:17,07-11-2025 22:17,Emergency,Dr. Nair,Chest Pain,37,1058.74,Government Scheme,Admitted,Child,November,#VALUE!,Wednesday,Normal
+ER0239,Darsh Nayar,69,Female,A+,30-06-2025,03:03,02-07-2025 23:03,Pediatrics,Dr. Reddy,Hypertension,22,79905.66,Cash,Admitted,Senior,June,#VALUE!,Monday,Fast
+ER0240,Hredhaan Hari,31,Male,O+,21-11-2025,00:01,21-11-2025 13:01,Neurology,Dr. Singh,Fever,55,67672.12,Insurance,Admitted,Adult,November,#VALUE!,Friday,Normal
+ER0241,Rushil Oommen,73,Male,Unknown,01-11-2025,16:58,03-11-2025 20:58,ENT,Dr. Verma,Dengue,20,70471.25,Insurance,Discharged,Senior,November,#VALUE!,Saturday,Fast
+ER0242,Aahana Sawhney,52,Female,AB+,14-01-2026,17:24,14-01-2026 22:24,Orthopedics,Dr. Nair,Chest Pain,30,54305.21,Cash,Admitted,Middle Aged,January,#VALUE!,Wednesday,Fast
+ER0243,Dhruv Thaker,73,Male,A+,04-10-2025,12:15,06-10-2025 20:15,Emergency,Dr. Khan,Migraine,44,76657.57,Government Scheme,Admitted,Senior,October,#VALUE!,Saturday,Normal
+ER0244,Aarav Palla,70,Other,Unknown,02-10-2025,03:04,02-10-2025 13:04,Pediatrics,Dr. Iyer,Asthma,55,1823.11,Not Specified,Discharged,Senior,October,#VALUE!,Thursday,Normal
+ER0245,Omya Master,39,Male,B-,06-10-2025,08:23,Still Admitted,Orthopedics,Dr. Reddy,Dengue,16,76256.43,Credit Card,Admitted,Adult,October,#VALUE!,Monday,Fast
+ER0246,Dayamai Devan,65,Other,O-,04-08-2025,11:10,05-08-2025 05:10,Orthopedics,Dr. Sharma,Fracture,27,37433.96,Not Specified,Admitted,Senior,August,#VALUE!,Monday,Fast
+ER0247,Hredhaan Choudhry,4,Other,O+,04-07-2025,09:57,06-07-2025 12:57,Emergency,Dr. Nair,Heart Attack,24,19777.69,Government Scheme,Discharged,Child,July,#VALUE!,Friday,Fast
+ER0248,Samarth Palla,80,Female,B-,19-12-2025,06:07,21-12-2025 07:07,Orthopedics,Dr. Patel,Fracture,22,23143.64,Government Scheme,Discharged,Senior,December,#VALUE!,Friday,Fast
+ER0249,Omkaar Datta,41,Female,A-,03-07-2025,00:45,03-07-2025 20:45,Gynecology,Dr. Patel,Chest Pain,95,80180.14,Government Scheme,Admitted,Middle Aged,July,#VALUE!,Thursday,Slow
+ER0250,Ansh Gulati,17,Male,B+,05-05-2025,10:45,06-05-2025 21:45,Orthopedics,Dr. Reddy,Heart Attack,42,47565.24,Government Scheme,Admitted,Teen,May,#VALUE!,Monday,Normal
+ER0251,Jalsa Halder,71,Male,O-,12-03-2026,21:10,13-03-2026 09:10,Emergency,Dr. Reddy,Chest Pain,15,25161.1,Government Scheme,Discharged,Senior,March,#VALUE!,Thursday,Fast
+ER0252,Siya Mallick,74,Other,B+,01-05-2025,22:40,04-05-2025 22:40,General Medicine,Dr. Reddy,Appendicitis,57,12231.98,Credit Card,Admitted,Senior,May,#VALUE!,Thursday,Normal
+ER0253,Yachana Rastogi,22,Female,O+,02-03-2026,10:46,03-03-2026 05:46,Orthopedics,Dr. Reddy,Fever,118,41417.55,Insurance,Admitted,Adult,March,#VALUE!,Monday,Slow
+ER0254,Indrajit Kurian,77,Other,B-,22-11-2025,16:01,24-11-2025 00:01,ENT,Dr. Nair,Fracture,61,11948.86,Insurance,Discharged,Senior,November,#VALUE!,Saturday,Slow
+ER0255,Aarush Wali,43,Female,O-,01-02-2026,00:01,02-02-2026 19:01,Gynecology,Dr. Reddy,Dengue,13,82822.04,Cash,Admitted,Middle Aged,February,#VALUE!,Sunday,Fast
+ER0256,Urvashi Bali,41,Male,AB+,26-02-2026,15:39,27-02-2026 17:39,ENT,Dr. Singh,Fever,24,62596.88,Government Scheme,Discharged,Middle Aged,February,#VALUE!,Thursday,Fast
+ER0257,Lila Bail,49,Female,AB+,06-04-2025,21:16,08-04-2025 05:16,Emergency,Dr. Singh,Fracture,70,79259.67,Cash,Discharged,Middle Aged,April,#VALUE!,Sunday,Slow
+ER0258,Chaman Sarma,88,Other,A+,27-03-2025,02:42,30-03-2025 00:42,Neurology,Dr. Nair,COVID-19,21,18215.29,Credit Card,Discharged,Senior,March,#VALUE!,Thursday,Fast
+ER0259,Aishani Atwal,87,Female,B+,07-07-2025,05:29,Still Admitted,Gynecology,Dr. Verma,Migraine,43,21851.6,Cash,Discharged,Senior,July,#VALUE!,Monday,Normal
+ER0260,Chakradev Chaudhry,58,Other,AB-,15-12-2025,04:35,17-12-2025 05:35,Orthopedics,Dr. Reddy,Kidney Stones,52,43308.77,Government Scheme,Discharged,Middle Aged,December,#VALUE!,Monday,Normal
+ER0261,Arunima Sastry,14,Male,O-,14-08-2025,00:38,15-08-2025 23:38,Orthopedics,Dr. Iyer,Dengue,18,52271.28,Government Scheme,Discharged,Teen,August,#VALUE!,Thursday,Fast
+ER0262,Lopa Zacharia,14,Male,A-,21-12-2025,18:29,23-12-2025 13:29,Gynecology,Dr. Verma,Migraine,31,43652.14,Cash,Discharged,Teen,December,#VALUE!,Sunday,Normal
+ER0263,Chasmum Goda,87,Other,B+,18-12-2025,14:36,20-12-2025 17:36,ENT,Dr. Singh,Chest Pain,4,41294.16,Credit Card,Discharged,Senior,December,#VALUE!,Thursday,Fast
+ER0264,Qabil Sabharwal,19,Female,O+,07-07-2025,20:04,08-07-2025 07:04,Orthopedics,Dr. Singh,Heart Attack,17,66770.81,Not Specified,Admitted,Adult,July,#VALUE!,Monday,Fast
+ER0265,Hredhaan Bassi,90,Female,O-,07-08-2025,23:05,Still Admitted,ENT,Dr. Patel,Fever,28,4275.72,Insurance,Admitted,Senior,August,#VALUE!,Thursday,Fast
+ER0266,Ria Contractor,87,Male,B-,23-12-2025,14:13,25-12-2025 10:13,Orthopedics,Dr. Iyer,Kidney Stones,15,14031.47,Government Scheme,Discharged,Senior,December,#VALUE!,Tuesday,Fast
+ER0267,Ekta Narasimhan,81,Male,B+,26-01-2026,00:53,27-01-2026 06:53,Gynecology,Dr. Reddy,Stroke,88,2966.75,Cash,Discharged,Senior,January,#VALUE!,Monday,Slow
+ER0268,Oeshi Devi,1,Other,Unknown,14-12-2025,22:26,17-12-2025 05:26,Gynecology,Dr. Khan,Fever,14,64071.5,Insurance,Discharged,Child,December,#VALUE!,Sunday,Fast
+ER0269,Jonathan Chhabra,47,Female,B-,15-10-2025,21:49,Still Admitted,Neurology,Dr. Nair,Fracture,25,22668.86,Government Scheme,Discharged,Middle Aged,October,#VALUE!,Wednesday,Fast
+ER0270,Charles Vig,79,Female,A-,20-08-2025,12:40,22-08-2025 05:40,Gynecology,Dr. Singh,Asthma,35,71946.25,Cash,Discharged,Senior,August,#VALUE!,Wednesday,Normal
+ER0271,Megha Acharya,87,Male,O-,18-06-2025,13:53,20-06-2025 04:53,Orthopedics,Dr. Patel,Migraine,78,26304.61,Cash,Admitted,Senior,June,#VALUE!,Wednesday,Slow
+ER0272,Yashoda Karan,54,Other,B+,05-04-2025,17:51,06-04-2025 12:51,Gynecology,Dr. Reddy,Stroke,13,16196.19,Cash,Discharged,Middle Aged,April,#VALUE!,Saturday,Fast
+ER0273,Isaac Ramesh,18,Male,O-,17-04-2025,04:04,19-04-2025 19:04,Pediatrics,Dr. Nair,Pneumonia,66,5030.15,Credit Card,Discharged,Adult,April,#VALUE!,Thursday,Slow
+ER0274,Eshana Atwal,25,Female,AB-,21-06-2025,21:03,24-06-2025 12:03,Neurology,Dr. Reddy,Dengue,33,42050.84,Government Scheme,Discharged,Adult,June,#VALUE!,Saturday,Normal
+ER0275,Aahana Talwar,29,Female,A+,25-11-2025,00:35,25-11-2025 11:35,Cardiology,Dr. Verma,Migraine,18,45927.93,Cash,Discharged,Adult,November,#VALUE!,Tuesday,Fast
+ER0276,Yashica Bhat,74,Male,O+,04-02-2026,03:31,06-02-2026 19:31,Orthopedics,Dr. Singh,Kidney Stones,43,70010.62,Insurance,Discharged,Senior,February,#VALUE!,Wednesday,Normal
+ER0277,Eta Narang,55,Male,B-,19-08-2025,06:06,21-08-2025 15:06,General Medicine,Dr. Verma,Chest Pain,37,38502.38,Credit Card,Discharged,Middle Aged,August,#VALUE!,Tuesday,Normal
+ER0278,Rajata Ganguly,16,Male,B-,07-05-2025,08:44,Still Admitted,ENT,Dr. Singh,COVID-19,23,52067.12,Government Scheme,Admitted,Teen,May,#VALUE!,Wednesday,Fast
+ER0279,Mason Modi,27,Male,Unknown,22-10-2025,08:47,23-10-2025 02:47,General Medicine,Dr. Verma,Pneumonia,34,46025.94,Credit Card,Discharged,Adult,October,#VALUE!,Wednesday,Normal
+ER0280,Gabriel Natt,74,Female,A-,21-03-2025,12:44,23-03-2025 02:44,Pediatrics,Dr. Iyer,Hypertension,26,66890.89,Insurance,Discharged,Senior,March,#VALUE!,Friday,Fast
+ER0281,Bachittar Murthy,32,Male,O-,03-07-2025,08:43,04-07-2025 01:43,Neurology,Dr. Khan,Hypertension,35,71780.45,Government Scheme,Discharged,Adult,July,#VALUE!,Thursday,Normal
+ER0282,Leela Bobal,49,Female,A-,10-11-2025,02:24,11-11-2025 13:24,Gynecology,Dr. Patel,Stroke,49,44069.34,Credit Card,Discharged,Middle Aged,November,#VALUE!,Monday,Normal
+ER0283,Girik Chacko,63,Female,A+,31-05-2025,19:04,02-06-2025 19:04,ENT,Dr. Patel,COVID-19,85,82646.7,Credit Card,Discharged,Senior,May,#VALUE!,Saturday,Slow
+ER0284,Aarnav Puri,28,Female,B-,25-06-2025,12:16,28-06-2025 09:16,Gynecology,Dr. Nair,Fever,15,27782.11,Credit Card,Admitted,Adult,June,#VALUE!,Wednesday,Fast
+ER0285,Damini Jaggi,44,Other,A+,17-02-2026,02:41,17-02-2026 19:41,ENT,Dr. Sharma,Fracture,119,53412.17,Government Scheme,Admitted,Middle Aged,February,#VALUE!,Tuesday,Slow
+ER0286,Geetika Nazareth,59,Male,AB+,21-12-2025,10:45,22-12-2025 07:45,ENT,Dr. Khan,COVID-19,10,77344.91,Credit Card,Admitted,Middle Aged,December,#VALUE!,Sunday,Fast
+ER0287,Falguni Raval,84,Female,O+,01-03-2026,21:20,03-03-2026 09:20,Orthopedics,Dr. Patel,Asthma,30,56650.99,Cash,Admitted,Senior,March,#VALUE!,Sunday,Fast
+ER0288,Faqid Dasgupta,55,Other,Unknown,23-12-2025,05:53,24-12-2025 21:53,General Medicine,Dr. Patel,Chest Pain,47,18534.09,Insurance,Admitted,Middle Aged,December,#VALUE!,Tuesday,Normal
+ER0289,Ayushman Rattan,2,Male,O-,25-02-2026,20:49,27-02-2026 01:49,ENT,Dr. Patel,Stroke,39,59145.62,Government Scheme,Admitted,Child,February,#VALUE!,Wednesday,Normal
+ER0290,Orinder Sengupta,14,Male,O-,07-04-2025,05:26,09-04-2025 07:26,Orthopedics,Dr. Singh,Fever,22,12087.43,Cash,Discharged,Teen,April,#VALUE!,Monday,Fast
+ER0291,Harinakshi Radhakrishnan,68,Other,A+,23-05-2025,22:27,24-05-2025 17:27,Orthopedics,Dr. Iyer,Heart Attack,29,30175.36,Cash,Discharged,Senior,May,#VALUE!,Friday,Fast
+ER0292,Fiyaz Upadhyay,79,Other,AB-,04-10-2025,01:35,04-10-2025 21:35,Gynecology,Dr. Khan,Fracture,24,76262.1,Cash,Discharged,Senior,October,#VALUE!,Saturday,Fast
+ER0293,Geetika Kuruvilla,55,Female,B+,12-05-2025,23:23,15-05-2025 01:23,Emergency,Dr. Khan,Fever,23,54970.44,Cash,Discharged,Middle Aged,May,#VALUE!,Monday,Fast
+ER0294,Triya Sahota,85,Female,B-,29-09-2025,12:01,01-10-2025 01:01,Cardiology,Dr. Khan,COVID-19,55,33602.96,Insurance,Discharged,Senior,September,#VALUE!,Monday,Normal
+ER0295,Alexander Hayer,50,Male,B-,23-07-2025,23:44,25-07-2025 06:44,ENT,Dr. Nair,Dengue,41,50687.07,Insurance,Discharged,Middle Aged,July,#VALUE!,Wednesday,Normal
+ER0296,Bhavya Kapur,50,Other,AB+,13-02-2026,05:51,14-02-2026 22:51,Neurology,Dr. Singh,Kidney Stones,21,58208.6,Government Scheme,Discharged,Middle Aged,February,#VALUE!,Friday,Fast
+ER0297,Avni Rege,76,Male,A+,14-06-2025,16:00,Still Admitted,Cardiology,Dr. Verma,Migraine,56,3865.37,Insurance,Discharged,Senior,June,#VALUE!,Saturday,Normal
+ER0298,Netra Sami,81,Other,AB+,11-10-2025,03:51,13-10-2025 06:51,Pediatrics,Dr. Reddy,COVID-19,39,34492.44,Cash,Admitted,Senior,October,#VALUE!,Saturday,Normal
+ER0299,Chanakya Solanki,66,Male,B+,30-04-2025,16:31,02-05-2025 08:31,Orthopedics,Dr. Singh,Stroke,53,50053.94,Insurance,Admitted,Senior,April,#VALUE!,Wednesday,Normal
+ER0300,Isaiah Kara,8,Male,Unknown,19-01-2026,20:06,22-01-2026 04:06,General Medicine,Dr. Reddy,Fracture,48,38809.92,Insurance,Admitted,Child,January,#VALUE!,Monday,Normal
+ER0301,Damini Bir,2,Other,B+,30-09-2025,10:56,01-10-2025 09:56,Orthopedics,Dr. Sharma,Appendicitis,20,42446.89,Credit Card,Discharged,Child,September,#VALUE!,Tuesday,Fast
+ER0302,Gaurang Basak,48,Male,O+,28-09-2025,16:34,30-09-2025 02:34,Neurology,Dr. Patel,Hypertension,23,76541.33,Credit Card,Discharged,Middle Aged,September,#VALUE!,Sunday,Fast
+ER0303,Isha Jha,34,Other,A-,21-12-2025,07:47,22-12-2025 18:47,Orthopedics,Dr. Nair,Heart Attack,51,43661.07,Insurance,Discharged,Adult,December,#VALUE!,Sunday,Normal
+ER0304,Aarna Nagarajan,21,Female,A-,12-02-2026,03:29,13-02-2026 01:29,Emergency,Dr. Patel,Migraine,47,63095.91,Insurance,Admitted,Adult,February,#VALUE!,Thursday,Normal
+ER0305,Charan Wable,6,Female,O-,05-01-2026,16:09,05-01-2026 18:09,General Medicine,Dr. Reddy,Appendicitis,32,15622.2,Insurance,Discharged,Child,January,#VALUE!,Monday,Normal
+ER0306,Rajata Kala,42,Male,AB+,25-11-2025,05:31,27-11-2025 11:31,General Medicine,Dr. Singh,Fever,35,70296.75,Credit Card,Admitted,Middle Aged,November,#VALUE!,Tuesday,Normal
+ER0307,Frado Dani,29,Other,A+,10-06-2025,03:44,10-06-2025 10:44,Neurology,Dr. Reddy,Fracture,71,74605.76,Credit Card,Discharged,Adult,June,#VALUE!,Tuesday,Slow
+ER0308,Bhavya Banerjee,12,Other,AB-,27-02-2026,18:31,Still Admitted,Emergency,Dr. Sharma,Asthma,23,17456.71,Credit Card,Discharged,Child,February,#VALUE!,Friday,Fast
+ER0309,Harshil Sawhney,48,Other,AB-,19-09-2025,02:47,20-09-2025 10:47,ENT,Dr. Khan,COVID-19,45,76587.46,Cash,Admitted,Middle Aged,September,#VALUE!,Friday,Normal
+ER0310,Nidra Mahajan,30,Other,O-,30-05-2025,13:18,01-06-2025 18:18,Cardiology,Dr. Sharma,Asthma,29,623.54,Government Scheme,Discharged,Adult,May,#VALUE!,Friday,Fast
+ER0311,Yamini Bali,27,Other,B-,22-01-2026,21:34,24-01-2026 13:34,Orthopedics,Dr. Reddy,Heart Attack,29,81720.14,Cash,Discharged,Adult,January,#VALUE!,Thursday,Fast
+ER0312,Madhavi Keer,30,Other,AB+,10-02-2026,12:06,11-02-2026 00:06,Cardiology,Dr. Singh,Heart Attack,64,82849.88,Not Specified,Discharged,Adult,February,#VALUE!,Tuesday,Slow
+ER0313,Rohan Palan,82,Female,A-,08-03-2026,15:08,11-03-2026 08:08,Neurology,Dr. Sharma,Stroke,54,56476.51,Not Specified,Admitted,Senior,March,#VALUE!,Sunday,Normal
+ER0314,Aadhya Sachdev,51,Other,O-,02-09-2025,03:38,03-09-2025 13:38,Emergency,Dr. Singh,Heart Attack,53,23480.27,Insurance,Discharged,Middle Aged,September,#VALUE!,Tuesday,Normal
+ER0315,Siya Khare,20,Male,B+,09-03-2026,11:43,10-03-2026 05:43,Orthopedics,Dr. Nair,Heart Attack,72,27035.81,Insurance,Discharged,Adult,March,#VALUE!,Monday,Slow
+ER0316,Rajeshri Nayar,40,Female,O+,14-05-2025,18:37,15-05-2025 21:37,ENT,Dr. Patel,Fracture,33,13818.5,Credit Card,Discharged,Adult,May,#VALUE!,Wednesday,Normal
+ER0317,Orinder Natt,42,Male,Unknown,12-07-2025,11:22,12-07-2025 17:22,General Medicine,Dr. Khan,Asthma,49,33982.66,Insurance,Discharged,Middle Aged,July,#VALUE!,Saturday,Normal
+ER0318,Reyansh Sarkar,4,Female,AB-,12-07-2025,20:03,14-07-2025 06:03,Neurology,Dr. Khan,Fracture,27,39542.65,Cash,Admitted,Child,July,#VALUE!,Saturday,Fast
+ER0319,Samaksh Sethi,17,Male,AB+,10-02-2026,08:35,10-02-2026 16:35,General Medicine,Dr. Singh,Dengue,40,53760.14,Insurance,Discharged,Teen,February,#VALUE!,Tuesday,Normal
+ER0320,Rehaan Bhandari,3,Male,B-,17-08-2025,13:51,18-08-2025 23:51,Orthopedics,Dr. Nair,Hypertension,30,11382.89,Credit Card,Admitted,Child,August,#VALUE!,Sunday,Fast
+ER0321,Advay Kala,22,Other,AB+,28-04-2025,14:41,01-05-2025 02:41,Cardiology,Dr. Reddy,Heart Attack,35,2991.25,Government Scheme,Admitted,Adult,April,#VALUE!,Monday,Normal
+ER0322,Lila Pandya,36,Female,AB-,17-02-2026,23:47,19-02-2026 03:47,Neurology,Dr. Iyer,Chest Pain,47,52392.01,Cash,Discharged,Adult,February,#VALUE!,Tuesday,Normal
+ER0323,Vincent Kale,71,Female,A+,03-08-2025,11:18,06-08-2025 03:18,Gynecology,Dr. Patel,Fever,20,32864.79,Government Scheme,Admitted,Senior,August,#VALUE!,Sunday,Fast
+ER0324,Chakradhar Luthra,81,Other,A+,05-10-2025,18:45,08-10-2025 14:45,General Medicine,Dr. Reddy,Hypertension,116,60779.82,Government Scheme,Discharged,Senior,October,#VALUE!,Sunday,Slow
+ER0325,Oviya Johal,73,Other,O-,15-03-2026,22:36,18-03-2026 13:36,Emergency,Dr. Reddy,Fever,18,15694.44,Credit Card,Discharged,Senior,March,#VALUE!,Sunday,Fast
+ER0326,Jatin Babu,8,Female,O-,14-12-2025,08:44,Still Admitted,Pediatrics,Dr. Khan,Appendicitis,15,8961.35,Cash,Admitted,Child,December,#VALUE!,Sunday,Fast
+ER0327,Abdul Goda,74,Female,O-,08-08-2025,16:24,09-08-2025 00:24,General Medicine,Dr. Iyer,Appendicitis,66,20488.57,Credit Card,Discharged,Senior,August,#VALUE!,Friday,Slow
+ER0328,Rachit Dua,90,Female,B+,30-12-2025,21:37,01-01-2026 19:37,Cardiology,Dr. Khan,Hypertension,53,74997.43,Government Scheme,Discharged,Senior,December,#VALUE!,Tuesday,Normal
+ER0329,Lavanya Batta,5,Male,A+,30-07-2025,09:38,31-07-2025 08:38,ENT,Dr. Khan,Pneumonia,48,18989.36,Government Scheme,Admitted,Child,July,#VALUE!,Wednesday,Normal
+ER0330,Aditya Varty,44,Other,B+,24-02-2026,06:27,25-02-2026 08:27,Neurology,Dr. Singh,Chest Pain,48,2351.64,Cash,Discharged,Middle Aged,February,#VALUE!,Tuesday,Normal
+ER0331,Alka Dutt,10,Female,AB+,16-12-2025,14:27,19-12-2025 10:27,Emergency,Dr. Patel,Asthma,32,25999.16,Cash,Discharged,Child,December,#VALUE!,Tuesday,Normal
+ER0332,Amol Trivedi,84,Female,B+,03-02-2026,20:23,06-02-2026 04:23,ENT,Dr. Singh,Migraine,19,56737.43,Cash,Admitted,Senior,February,#VALUE!,Tuesday,Fast
+ER0333,Kalpit Bhatti,23,Other,A+,12-11-2025,12:08,14-11-2025 02:08,Neurology,Dr. Reddy,Hypertension,34,82058.04,Insurance,Admitted,Adult,November,#VALUE!,Wednesday,Normal
+ER0334,Netra Sha,82,Other,A-,09-05-2025,03:18,10-05-2025 20:18,General Medicine,Dr. Nair,Appendicitis,22,28483.73,Insurance,Admitted,Senior,May,#VALUE!,Friday,Fast
+ER0335,Manya Trivedi,82,Male,O-,09-04-2025,10:18,11-04-2025 03:18,Neurology,Dr. Nair,Chest Pain,59,22910.45,Cash,Discharged,Senior,April,#VALUE!,Wednesday,Normal
+ER0336,Meghana Lata,14,Other,A+,02-06-2025,07:50,04-06-2025 04:50,Pediatrics,Dr. Sharma,Stroke,30,37529.6,Government Scheme,Discharged,Teen,June,#VALUE!,Monday,Fast
+ER0337,Arjun Issac,49,Female,AB+,21-10-2025,06:12,23-10-2025 11:12,ENT,Dr. Patel,Heart Attack,20,67147.68,Cash,Admitted,Middle Aged,October,#VALUE!,Tuesday,Fast
+ER0338,Januja Bava,38,Male,O-,04-05-2025,03:51,04-05-2025 13:51,Cardiology,Dr. Verma,Fracture,27,6769.93,Cash,Discharged,Adult,May,#VALUE!,Sunday,Fast
+ER0339,Zashil Thaman,71,Male,O-,17-12-2025,07:42,18-12-2025 04:42,Orthopedics,Dr. Nair,COVID-19,42,3118.93,Cash,Discharged,Senior,December,#VALUE!,Wednesday,Normal
+ER0340,Shivansh Nazareth,7,Male,O-,10-04-2025,17:36,13-04-2025 01:36,Neurology,Dr. Khan,Migraine,23,35084.15,Credit Card,Discharged,Child,April,#VALUE!,Thursday,Fast
+ER0341,Chakradhar Soman,13,Male,AB+,12-01-2026,20:59,14-01-2026 11:59,General Medicine,Dr. Nair,Appendicitis,20,5105.66,Insurance,Discharged,Teen,January,#VALUE!,Monday,Fast
+ER0342,Unnati Balay,26,Male,A+,09-07-2025,22:14,11-07-2025 12:14,ENT,Dr. Khan,Appendicitis,38,54427.11,Insurance,Discharged,Adult,July,#VALUE!,Wednesday,Normal
+ER0343,Faras Ray,51,Female,AB-,02-05-2025,09:32,03-05-2025 00:32,Pediatrics,Dr. Verma,Fracture,38,54737.71,Government Scheme,Admitted,Middle Aged,May,#VALUE!,Friday,Normal
+ER0344,Suhani Wagle,24,Female,A+,03-08-2025,23:05,06-08-2025 00:05,Emergency,Dr. Verma,Heart Attack,24,39797.4,Cash,Discharged,Adult,August,#VALUE!,Sunday,Fast
+ER0345,Naveen Shan,90,Other,A-,22-03-2025,02:42,Still Admitted,Neurology,Dr. Patel,Dengue,24,29550.37,Government Scheme,Discharged,Senior,March,#VALUE!,Saturday,Fast
+ER0346,Lopa Ahluwalia,50,Other,AB+,31-10-2025,10:46,01-11-2025 16:46,Cardiology,Dr. Nair,Pneumonia,38,74999.75,Government Scheme,Admitted,Middle Aged,October,#VALUE!,Friday,Normal
+ER0347,Faras Nagi,65,Other,B+,24-08-2025,13:20,26-08-2025 16:20,Cardiology,Dr. Patel,Hypertension,13,38443.86,Cash,Discharged,Senior,August,#VALUE!,Sunday,Fast
+ER0348,Krish Balakrishnan,6,Female,A-,22-04-2025,22:36,23-04-2025 23:36,Neurology,Dr. Reddy,Migraine,14,84769.25,Cash,Discharged,Child,April,#VALUE!,Tuesday,Fast
+ER0349,Maanav Sachdeva,9,Male,AB+,06-02-2026,22:22,08-02-2026 08:22,Emergency,Dr. Reddy,Kidney Stones,21,28057.72,Credit Card,Discharged,Child,February,#VALUE!,Friday,Fast
+ER0350,Advika Bail,15,Female,B+,03-01-2026,12:12,03-01-2026 14:12,Gynecology,Dr. Iyer,Pneumonia,29,50180.43,Insurance,Discharged,Teen,January,#VALUE!,Saturday,Fast
+ER0351,Amaira Gulati,69,Female,AB+,24-11-2025,00:15,24-11-2025 13:15,Pediatrics,Dr. Verma,Stroke,39,55829.56,Government Scheme,Admitted,Senior,November,#VALUE!,Monday,Normal
+ER0352,Ekaja Brar,19,Other,AB+,19-03-2026,03:08,20-03-2026 15:08,Gynecology,Dr. Sharma,Stroke,80,75669.02,Credit Card,Discharged,Adult,March,#VALUE!,Thursday,Slow
+ER0353,Siddharth Lalla,35,Female,A+,14-12-2025,17:53,15-12-2025 00:53,ENT,Dr. Singh,Hypertension,55,26108.14,Not Specified,Discharged,Adult,December,#VALUE!,Sunday,Normal
+ER0354,Azad Hans,18,Female,AB-,20-05-2025,21:14,21-05-2025 10:14,General Medicine,Dr. Singh,Fever,30,62083.55,Insurance,Admitted,Adult,May,#VALUE!,Tuesday,Fast
+ER0355,Daksh Prakash,63,Other,O-,01-10-2025,11:36,02-10-2025 15:36,Gynecology,Dr. Sharma,Kidney Stones,32,67380.94,Insurance,Admitted,Senior,October,#VALUE!,Wednesday,Normal
+ER0356,Panini Talwar,18,Other,Unknown,20-10-2025,09:59,Still Admitted,Gynecology,Dr. Iyer,Migraine,18,74452.76,Cash,Discharged,Adult,October,#VALUE!,Monday,Fast
+ER0357,Luke Dave,59,Male,O-,23-02-2026,16:46,25-02-2026 00:46,Cardiology,Dr. Khan,Fever,32,31625.74,Government Scheme,Discharged,Middle Aged,February,#VALUE!,Monday,Normal
+ER0358,Gayathri Wali,31,Female,AB-,23-10-2025,15:02,Still Admitted,Cardiology,Dr. Nair,Appendicitis,27,81663.97,Government Scheme,Discharged,Adult,October,#VALUE!,Thursday,Fast
+ER0359,Wriddhish Sami,21,Female,A-,20-04-2025,00:35,21-04-2025 21:35,Emergency,Dr. Verma,Chest Pain,40,33164.8,Cash,Discharged,Adult,April,#VALUE!,Sunday,Normal
+ER0360,Nihal Chada,83,Male,B-,09-08-2025,21:06,11-08-2025 01:06,General Medicine,Dr. Verma,Dengue,20,35103.36,Insurance,Discharged,Senior,August,#VALUE!,Saturday,Fast
+ER0361,Agastya Bandi,17,Other,B+,09-01-2026,04:27,09-01-2026 06:27,ENT,Dr. Sharma,Migraine,45,21826.99,Not Specified,Discharged,Teen,January,#VALUE!,Friday,Normal
+ER0362,Rohan Ramesh,49,Female,Unknown,23-07-2025,01:31,24-07-2025 13:31,Gynecology,Dr. Verma,Migraine,83,39935.98,Government Scheme,Discharged,Middle Aged,July,#VALUE!,Wednesday,Slow
+ER0363,Raagini Chandran,72,Other,O+,29-05-2025,02:37,29-05-2025 03:37,Emergency,Dr. Verma,Dengue,31,9634.83,Insurance,Admitted,Senior,May,#VALUE!,Thursday,Normal
+ER0364,Advik Bedi,36,Female,O+,24-04-2025,16:07,26-04-2025 04:07,Emergency,Dr. Khan,Appendicitis,42,44211.31,Cash,Discharged,Adult,April,#VALUE!,Thursday,Normal
+ER0365,Ijaya Chahal,88,Male,A+,11-12-2025,14:13,13-12-2025 18:13,Emergency,Dr. Nair,Fever,50,22421.52,Government Scheme,Discharged,Senior,December,#VALUE!,Thursday,Normal
+ER0366,Gaurangi Sridhar,44,Other,B-,17-03-2026,01:53,17-03-2026 06:53,General Medicine,Dr. Nair,Dengue,26,30793.01,Credit Card,Discharged,Middle Aged,March,#VALUE!,Tuesday,Fast
+ER0367,Xalak Kari,38,Male,AB-,23-08-2025,05:24,26-08-2025 05:24,Neurology,Dr. Iyer,COVID-19,37,22356.08,Cash,Discharged,Adult,August,#VALUE!,Saturday,Normal
+ER0368,Harini Sridhar,29,Female,B-,22-11-2025,12:03,24-11-2025 07:03,Orthopedics,Dr. Verma,Stroke,33,67093.64,Credit Card,Admitted,Adult,November,#VALUE!,Saturday,Normal
+ER0369,Ekapad Bera,16,Female,A+,04-02-2026,04:11,05-02-2026 18:11,ENT,Dr. Patel,Heart Attack,35,75656.5,Insurance,Discharged,Teen,February,#VALUE!,Wednesday,Normal
+ER0370,Sudiksha Kurian,53,Male,B+,29-07-2025,17:33,31-07-2025 18:33,Pediatrics,Dr. Iyer,Migraine,20,29455.61,Government Scheme,Admitted,Middle Aged,July,#VALUE!,Tuesday,Fast
+ER0371,Tanmayi Kala,63,Female,B+,12-05-2025,21:18,13-05-2025 21:18,Orthopedics,Dr. Singh,Dengue,33,5402.15,Government Scheme,Admitted,Senior,May,#VALUE!,Monday,Normal
+ER0372,Veer Nagarajan,63,Male,B+,18-12-2025,21:17,19-12-2025 19:17,Neurology,Dr. Reddy,Dengue,44,36785.12,Government Scheme,Discharged,Senior,December,#VALUE!,Thursday,Normal
+ER0373,Kai Mukherjee,5,Other,Unknown,08-08-2025,07:42,10-08-2025 09:42,Cardiology,Dr. Singh,Chest Pain,79,75874.54,Cash,Admitted,Child,August,#VALUE!,Friday,Slow
+ER0374,Kala Pandit,29,Other,O-,02-01-2026,11:47,02-01-2026 12:47,General Medicine,Dr. Verma,Appendicitis,58,9178.84,Credit Card,Admitted,Adult,January,#VALUE!,Friday,Normal
+ER0375,Bhavani Kumer,38,Female,O-,08-11-2025,21:11,09-11-2025 03:11,Pediatrics,Dr. Reddy,Dengue,120,84617.42,Credit Card,Discharged,Adult,November,#VALUE!,Saturday,Slow
+ER0376,Hemang Garg,25,Male,AB+,14-01-2026,19:32,17-01-2026 10:32,Emergency,Dr. Sharma,Migraine,20,19455.16,Cash,Admitted,Adult,January,#VALUE!,Wednesday,Fast
+ER0377,Kritika Upadhyay,16,Female,A+,17-01-2026,13:40,17-01-2026 16:40,Neurology,Dr. Reddy,Dengue,55,22114.19,Insurance,Discharged,Teen,January,#VALUE!,Saturday,Normal
+ER0378,Saumya Chatterjee,84,Male,A+,15-03-2026,11:37,15-03-2026 18:37,Orthopedics,Dr. Patel,Stroke,36,38044.56,Insurance,Discharged,Senior,March,#VALUE!,Sunday,Normal
+ER0379,Yashodhara Virk,27,Other,A+,14-08-2025,12:19,17-08-2025 01:19,Neurology,Dr. Verma,Stroke,123,56410.66,Credit Card,Discharged,Adult,August,#VALUE!,Thursday,Critical
+ER0380,Krishna Jhaveri,14,Other,A-,30-01-2026,00:53,30-01-2026 18:53,Gynecology,Dr. Verma,Fracture,20,66812.23,Government Scheme,Admitted,Teen,January,#VALUE!,Friday,Fast
+ER0381,Advay Dhar,67,Male,O-,29-09-2025,07:54,30-09-2025 09:54,Pediatrics,Dr. Reddy,Fever,20,14051.57,Government Scheme,Discharged,Senior,September,#VALUE!,Monday,Fast
+ER0382,Sachi Rajagopal,31,Male,A+,05-10-2025,02:30,07-10-2025 16:30,Emergency,Dr. Patel,Fracture,23,71077.12,Government Scheme,Admitted,Adult,October,#VALUE!,Sunday,Fast
+ER0383,Upadhriti Mittal,13,Female,B-,10-08-2025,20:27,11-08-2025 08:27,Orthopedics,Dr. Nair,Fever,9,22818.56,Insurance,Admitted,Teen,August,#VALUE!,Sunday,Fast
+ER0384,Reyansh Mukherjee,38,Female,O-,29-06-2025,01:19,30-06-2025 00:19,Cardiology,Dr. Reddy,COVID-19,24,10293.64,Insurance,Admitted,Adult,June,#VALUE!,Sunday,Fast
+ER0385,Qadim Bandi,43,Female,AB-,15-04-2025,10:14,16-04-2025 04:14,Neurology,Dr. Verma,COVID-19,20,8354.39,Credit Card,Admitted,Middle Aged,April,#VALUE!,Tuesday,Fast
+ER0386,Harshil Maharaj,59,Female,AB+,18-03-2026,23:16,21-03-2026 03:16,Gynecology,Dr. Nair,Hypertension,36,36137.01,Cash,Admitted,Middle Aged,March,#VALUE!,Wednesday,Normal
+ER0387,Eesha Iyer,14,Female,AB-,18-04-2025,13:33,18-04-2025 21:33,Neurology,Dr. Nair,Appendicitis,40,52156.81,Credit Card,Discharged,Teen,April,#VALUE!,Friday,Normal
+ER0388,Jhalak Palla,63,Male,AB+,10-10-2025,00:37,10-10-2025 17:37,ENT,Dr. Nair,Chest Pain,102,5851.9,Credit Card,Admitted,Senior,October,#VALUE!,Friday,Slow
+ER0389,Ekavir Thakkar,86,Female,A-,12-04-2025,20:01,15-04-2025 16:01,General Medicine,Dr. Reddy,Dengue,58,61902.09,Government Scheme,Admitted,Senior,April,#VALUE!,Saturday,Normal
+ER0390,Chaman Deep,72,Other,Unknown,05-03-2026,04:31,07-03-2026 06:31,Neurology,Dr. Sharma,Dengue,23,79454.39,Government Scheme,Discharged,Senior,March,#VALUE!,Thursday,Fast
+ER0391,Pranav Mangat,63,Female,B-,04-06-2025,10:15,Still Admitted,Orthopedics,Dr. Singh,Fever,19,4754.64,Cash,Discharged,Senior,June,#VALUE!,Wednesday,Fast
+ER0392,Fariq Shetty,31,Male,Unknown,06-08-2025,00:17,08-08-2025 01:17,Gynecology,Dr. Nair,Hypertension,44,48921.45,Insurance,Discharged,Adult,August,#VALUE!,Wednesday,Normal
+ER0393,Ira Kurian,16,Female,A+,06-12-2025,22:59,09-12-2025 08:59,Emergency,Dr. Patel,Stroke,14,35342.61,Insurance,Discharged,Teen,December,#VALUE!,Saturday,Fast
+ER0394,Kamala Pandey,84,Other,AB-,11-04-2025,00:51,12-04-2025 15:51,General Medicine,Dr. Singh,Asthma,99,70238.78,Cash,Discharged,Senior,April,#VALUE!,Friday,Slow
+ER0395,Aarini Lalla,85,Female,AB-,10-01-2026,09:34,12-01-2026 04:34,ENT,Dr. Patel,Fracture,67,64662.54,Cash,Admitted,Senior,January,#VALUE!,Saturday,Slow
+ER0396,Dakshesh Sachdev,71,Other,O-,02-09-2025,07:01,04-09-2025 05:01,Pediatrics,Dr. Patel,Chest Pain,24,76286.12,Government Scheme,Admitted,Senior,September,#VALUE!,Tuesday,Fast
+ER0397,Avni Barad,33,Other,B-,29-07-2025,14:39,31-07-2025 19:39,Orthopedics,Dr. Khan,Fracture,11,79103.27,Government Scheme,Admitted,Adult,July,#VALUE!,Tuesday,Fast
+ER0398,Tanish Oommen,14,Female,A+,16-04-2025,20:07,17-04-2025 21:07,Emergency,Dr. Patel,Hypertension,74,75853.24,Government Scheme,Discharged,Teen,April,#VALUE!,Wednesday,Slow
+ER0399,Yamini Issac,64,Male,A+,23-01-2026,06:39,25-01-2026 23:39,Neurology,Dr. Reddy,Pneumonia,30,41307.75,Cash,Discharged,Senior,January,#VALUE!,Friday,Fast
+ER0400,Vyanjana Iyer,14,Female,O-,11-11-2025,17:45,12-11-2025 16:45,Neurology,Dr. Reddy,Stroke,69,83267.81,Cash,Admitted,Teen,November,#VALUE!,Tuesday,Slow
+ER0401,Saanvi Khanna,58,Male,B+,12-03-2026,13:31,14-03-2026 09:31,Pediatrics,Dr. Reddy,Pneumonia,12,59651.21,Credit Card,Discharged,Middle Aged,March,#VALUE!,Thursday,Fast
+ER0402,Akshay Lall,71,Other,B-,30-03-2025,04:09,02-04-2025 03:09,Emergency,Dr. Khan,Migraine,23,53242.16,Credit Card,Discharged,Senior,March,#VALUE!,Sunday,Fast
+ER0403,Ganga Sengupta,65,Other,O-,29-08-2025,03:41,29-08-2025 20:41,Neurology,Dr. Patel,Hypertension,33,30264.09,Government Scheme,Discharged,Senior,August,#VALUE!,Friday,Normal
+ER0404,Chaitaly Soni,55,Male,A-,07-01-2026,10:07,09-01-2026 16:07,Pediatrics,Dr. Sharma,Stroke,34,12780.11,Insurance,Admitted,Middle Aged,January,#VALUE!,Wednesday,Normal
+ER0405,Anusha Dani,88,Female,B+,08-02-2026,07:14,09-02-2026 04:14,Pediatrics,Dr. Sharma,COVID-19,25,66778.2,Cash,Discharged,Senior,February,#VALUE!,Sunday,Fast
+ER0406,Damini Mangat,58,Male,B-,31-01-2026,07:21,31-01-2026 12:21,Emergency,Dr. Reddy,Migraine,48,43672.93,Credit Card,Discharged,Middle Aged,January,#VALUE!,Saturday,Normal
+ER0407,Logan Singhal,50,Female,O-,17-02-2026,10:10,17-02-2026 17:10,Gynecology,Dr. Sharma,Chest Pain,17,63340.11,Cash,Discharged,Middle Aged,February,#VALUE!,Tuesday,Fast
+ER0408,Ria Dutt,82,Other,O-,12-09-2025,05:06,14-09-2025 14:06,General Medicine,Dr. Khan,Hypertension,30,61755.28,Cash,Admitted,Senior,September,#VALUE!,Friday,Fast
+ER0409,Raksha Thakur,24,Male,A-,05-04-2025,08:00,06-04-2025 07:00,Orthopedics,Dr. Reddy,Chest Pain,35,36708.91,Credit Card,Admitted,Adult,April,#VALUE!,Saturday,Normal
+ER0410,Andrew Palla,43,Female,B+,10-05-2025,05:21,11-05-2025 14:21,Cardiology,Dr. Sharma,Appendicitis,45,78969.09,Insurance,Discharged,Middle Aged,May,#VALUE!,Saturday,Normal
+ER0411,Kamala Prashad,74,Other,O-,31-07-2025,08:55,01-08-2025 23:55,ENT,Dr. Patel,Hypertension,50,60299.09,Cash,Discharged,Senior,July,#VALUE!,Thursday,Normal
+ER0412,Samuel Bajwa,65,Male,AB+,29-08-2025,20:59,01-09-2025 15:59,Orthopedics,Dr. Reddy,Fracture,16,30024.55,Cash,Discharged,Senior,August,#VALUE!,Friday,Fast
+ER0413,Aarnav Garg,38,Male,AB-,04-01-2026,19:10,06-01-2026 14:10,Emergency,Dr. Sharma,Fracture,13,57025.3,Government Scheme,Admitted,Adult,January,#VALUE!,Sunday,Fast
+ER0414,Ishanvi Wali,88,Female,AB+,24-12-2025,07:41,25-12-2025 15:41,Cardiology,Dr. Patel,Stroke,71,22181.9,Credit Card,Admitted,Senior,December,#VALUE!,Wednesday,Slow
+ER0415,Vasana Vora,66,Other,Unknown,21-02-2026,11:42,24-02-2026 06:42,Emergency,Dr. Nair,Chest Pain,40,25548.67,Cash,Admitted,Senior,February,#VALUE!,Saturday,Normal
+ER0416,Anika Karan,22,Other,Unknown,17-11-2025,00:36,17-11-2025 11:36,Orthopedics,Dr. Patel,Migraine,21,57143.32,Cash,Discharged,Adult,November,#VALUE!,Monday,Fast
+ER0417,Ijaya Saini,27,Other,AB+,12-07-2025,18:33,15-07-2025 01:33,Orthopedics,Dr. Patel,COVID-19,83,58470.68,Insurance,Discharged,Adult,July,#VALUE!,Saturday,Slow
+ER0418,Charita Misra,12,Male,A+,22-06-2025,12:46,24-06-2025 07:46,Cardiology,Dr. Iyer,Hypertension,35,21786.23,Insurance,Discharged,Child,June,#VALUE!,Sunday,Normal
+ER0419,Joshua Banik,53,Female,AB-,09-07-2025,15:47,Still Admitted,Pediatrics,Dr. Reddy,Stroke,67,27236.16,Government Scheme,Discharged,Middle Aged,July,#VALUE!,Wednesday,Slow
+ER0420,Xalak Ray,83,Other,A-,09-09-2025,01:31,11-09-2025 22:31,Cardiology,Dr. Sharma,COVID-19,34,72177.23,Credit Card,Discharged,Senior,September,#VALUE!,Tuesday,Normal
+ER0421,Warinder Ramesh,88,Female,A-,30-04-2025,09:08,30-04-2025 23:08,Pediatrics,Dr. Verma,Hypertension,114,78805.38,Government Scheme,Admitted,Senior,April,#VALUE!,Wednesday,Slow
+ER0422,Joshua Rout,21,Other,B-,07-06-2025,05:40,07-06-2025 09:40,ENT,Dr. Iyer,COVID-19,94,33538.87,Credit Card,Discharged,Adult,June,#VALUE!,Saturday,Slow
+ER0423,Girish Merchant,87,Other,O-,17-05-2025,07:40,18-05-2025 02:40,Pediatrics,Dr. Sharma,Kidney Stones,28,74417.81,Not Specified,Admitted,Senior,May,#VALUE!,Saturday,Fast
+ER0424,Bahadurjit Sandal,69,Other,A-,05-07-2025,06:37,05-07-2025 07:37,Gynecology,Dr. Verma,Migraine,59,63731.06,Credit Card,Admitted,Senior,July,#VALUE!,Saturday,Normal
+ER0425,Zaitra Pandya,21,Male,B-,01-03-2026,17:08,04-03-2026 11:08,Neurology,Dr. Verma,Migraine,48,10185.6,Insurance,Discharged,Adult,March,#VALUE!,Sunday,Normal
+ER0426,Osha Narayanan,83,Other,A-,22-03-2025,12:24,25-03-2025 11:24,ENT,Dr. Verma,Dengue,75,6192.15,Insurance,Admitted,Senior,March,#VALUE!,Saturday,Slow
+ER0427,Gaurav Ramesh,46,Male,B-,17-11-2025,19:03,20-11-2025 10:03,Emergency,Dr. Patel,Fever,18,52849.08,Cash,Admitted,Middle Aged,November,#VALUE!,Monday,Fast
+ER0428,Rishi Mukhopadhyay,79,Other,O+,01-04-2025,17:01,04-04-2025 03:01,Emergency,Dr. Iyer,Pneumonia,49,48399.83,Credit Card,Discharged,Senior,April,#VALUE!,Tuesday,Normal
+ER0429,Tanay Sagar,41,Male,B-,25-07-2025,04:30,26-07-2025 02:30,Cardiology,Dr. Reddy,Fever,62,71489.3,Cash,Discharged,Middle Aged,July,#VALUE!,Friday,Slow
+ER0430,Dhriti Karnik,60,Female,O-,23-02-2026,20:54,25-02-2026 15:54,ENT,Dr. Verma,Heart Attack,11,47116.27,Cash,Discharged,Middle Aged,February,#VALUE!,Monday,Fast
+ER0431,Balendra Ganguly,18,Other,B-,31-03-2025,02:34,31-03-2025 13:34,Pediatrics,Dr. Verma,COVID-19,16,75395.38,Insurance,Discharged,Adult,March,#VALUE!,Monday,Fast
+ER0432,Nachiket Kibe,75,Other,AB+,10-02-2026,20:03,10-02-2026 23:03,Cardiology,Dr. Khan,Chest Pain,9,47109.69,Government Scheme,Discharged,Senior,February,#VALUE!,Tuesday,Fast
+ER0433,Banjeet Mangal,51,Male,O+,22-03-2025,09:20,23-03-2025 05:20,Emergency,Dr. Iyer,Heart Attack,28,42844.91,Insurance,Admitted,Middle Aged,March,#VALUE!,Saturday,Fast
+ER0434,Niharika Dugal,85,Male,B+,28-11-2025,09:50,01-12-2025 02:50,Cardiology,Dr. Iyer,Heart Attack,50,13954.29,Cash,Discharged,Senior,November,#VALUE!,Friday,Normal
+ER0435,Yahvi Gaba,6,Male,AB-,19-09-2025,09:58,21-09-2025 23:58,Emergency,Dr. Khan,Fracture,81,22838.18,Cash,Admitted,Child,September,#VALUE!,Friday,Slow
+ER0436,Oviya Upadhyay,50,Female,AB-,10-04-2025,23:35,12-04-2025 02:35,Emergency,Dr. Sharma,Chest Pain,34,83359.84,Credit Card,Admitted,Middle Aged,April,#VALUE!,Thursday,Normal
+ER0437,Reyansh Bhavsar,34,Other,B+,07-09-2025,01:56,09-09-2025 20:56,Pediatrics,Dr. Reddy,Dengue,87,32484.81,Insurance,Discharged,Adult,September,#VALUE!,Sunday,Slow
+ER0438,Rudra Bora,67,Female,O-,17-01-2026,20:17,19-01-2026 21:17,General Medicine,Dr. Singh,Heart Attack,14,67479.55,Insurance,Discharged,Senior,January,#VALUE!,Saturday,Fast
+ER0439,Harsh Balakrishnan,22,Male,A-,16-10-2025,14:12,17-10-2025 08:12,ENT,Dr. Verma,Migraine,11,13195.31,Cash,Admitted,Adult,October,#VALUE!,Thursday,Fast
+ER0440,Raagini Bose,54,Female,A-,01-04-2025,11:21,02-04-2025 03:21,General Medicine,Dr. Nair,Dengue,32,40959.84,Cash,Discharged,Middle Aged,April,#VALUE!,Tuesday,Normal
+ER0441,Osha Korpal,32,Male,B+,01-11-2025,00:02,03-11-2025 05:02,Cardiology,Dr. Iyer,Appendicitis,41,53696.17,Insurance,Discharged,Adult,November,#VALUE!,Saturday,Normal
+ER0442,Sarthak Dubey,22,Female,B+,09-06-2025,04:42,09-06-2025 23:42,Cardiology,Dr. Reddy,Pneumonia,32,82401.09,Insurance,Discharged,Adult,June,#VALUE!,Monday,Normal
+ER0443,Varsha Saini,28,Female,AB-,16-07-2025,09:57,17-07-2025 22:57,Orthopedics,Dr. Nair,Appendicitis,9,19036.24,Government Scheme,Discharged,Adult,July,#VALUE!,Wednesday,Fast
+ER0444,Eiravati Dube,22,Other,O-,02-03-2026,16:40,03-03-2026 16:40,Pediatrics,Dr. Nair,Pneumonia,31,50405.36,Cash,Admitted,Adult,March,#VALUE!,Monday,Normal
+ER0445,Robert Dua,3,Male,AB+,01-12-2025,22:08,02-12-2025 15:08,Orthopedics,Dr. Iyer,Pneumonia,15,8637.23,Government Scheme,Discharged,Child,December,#VALUE!,Monday,Fast
+ER0446,Prisha Comar,12,Female,B+,30-08-2025,19:08,31-08-2025 00:08,Orthopedics,Dr. Sharma,Hypertension,49,57838.27,Government Scheme,Discharged,Child,August,#VALUE!,Saturday,Normal
+ER0447,Tanmayi Patil,90,Other,AB+,06-12-2025,01:27,08-12-2025 01:27,Cardiology,Dr. Khan,Hypertension,41,41239.43,Government Scheme,Admitted,Senior,December,#VALUE!,Saturday,Normal
+ER0448,Devika Dave,18,Female,AB-,05-03-2026,22:26,06-03-2026 11:26,Gynecology,Dr. Khan,Fracture,18,24436.03,Government Scheme,Admitted,Adult,March,#VALUE!,Thursday,Fast
+ER0449,Adya Ramanathan,74,Other,A-,09-07-2025,14:05,09-07-2025 15:05,Cardiology,Dr. Sharma,Stroke,24,55809.15,Credit Card,Discharged,Senior,July,#VALUE!,Wednesday,Fast
+ER0450,Chandresh Rao,55,Other,O+,04-01-2026,04:50,04-01-2026 18:50,Neurology,Dr. Verma,Kidney Stones,17,36290.95,Credit Card,Discharged,Middle Aged,January,#VALUE!,Sunday,Fast
+ER0451,Jagvi Uppal,53,Other,AB-,05-12-2025,13:47,07-12-2025 16:47,General Medicine,Dr. Iyer,Asthma,31,47743.43,Government Scheme,Admitted,Middle Aged,December,#VALUE!,Friday,Normal
+ER0452,Ekapad Sen,51,Other,B+,01-11-2025,12:40,03-11-2025 04:40,Emergency,Dr. Patel,COVID-19,58,19915.68,Cash,Admitted,Middle Aged,November,#VALUE!,Saturday,Normal
+ER0453,Girik Dey,44,Other,A+,10-06-2025,21:22,13-06-2025 15:22,Gynecology,Dr. Iyer,Stroke,18,82006.19,Insurance,Discharged,Middle Aged,June,#VALUE!,Tuesday,Fast
+ER0454,Urvi Karan,77,Female,A-,14-01-2026,01:55,14-01-2026 20:55,ENT,Dr. Patel,Fever,44,19239.59,Insurance,Discharged,Senior,January,#VALUE!,Wednesday,Normal
+ER0455,Hardik Gokhale,79,Other,O+,03-02-2026,09:16,05-02-2026 11:16,Gynecology,Dr. Sharma,Hypertension,24,69809.33,Government Scheme,Discharged,Senior,February,#VALUE!,Tuesday,Fast
+ER0456,Ryan Barman,25,Male,B-,14-05-2025,00:44,15-05-2025 02:44,Pediatrics,Dr. Iyer,Dengue,20,3547.17,Cash,Discharged,Adult,May,#VALUE!,Wednesday,Fast
+ER0457,Maanas Thaker,36,Female,O-,21-05-2025,21:43,22-05-2025 18:43,Orthopedics,Dr. Reddy,Stroke,31,50023.77,Insurance,Discharged,Adult,May,#VALUE!,Wednesday,Normal
+ER0458,Shravya D’Alia,71,Female,O-,27-01-2026,03:30,27-01-2026 12:30,Orthopedics,Dr. Singh,Fever,17,19621.97,Cash,Discharged,Senior,January,#VALUE!,Tuesday,Fast
+ER0459,Hredhaan Chand,34,Male,AB+,16-11-2025,14:21,18-11-2025 18:21,Cardiology,Dr. Patel,Kidney Stones,23,6616.61,Credit Card,Admitted,Adult,November,#VALUE!,Sunday,Fast
+ER0460,Adweta Ratta,69,Other,O+,31-05-2025,05:39,31-05-2025 20:39,Pediatrics,Dr. Nair,Stroke,16,48087.75,Cash,Discharged,Senior,May,#VALUE!,Saturday,Fast
+ER0461,Gagan Nagarajan,76,Male,AB-,13-04-2025,17:31,16-04-2025 04:31,ENT,Dr. Patel,Fever,107,6208.34,Cash,Discharged,Senior,April,#VALUE!,Sunday,Slow
+ER0462,Janya Murthy,53,Female,A+,12-02-2026,05:35,13-02-2026 11:35,Emergency,Dr. Verma,Migraine,33,24775.97,Government Scheme,Discharged,Middle Aged,February,#VALUE!,Thursday,Normal
+ER0463,Eesha Bansal,71,Male,AB-,07-08-2025,11:39,09-08-2025 07:39,Orthopedics,Dr. Singh,Asthma,21,18968.84,Credit Card,Admitted,Senior,August,#VALUE!,Thursday,Fast
+ER0464,Widisha Prakash,26,Male,B-,16-02-2026,18:35,17-02-2026 19:35,ENT,Dr. Verma,Migraine,37,19868.04,Cash,Discharged,Adult,February,#VALUE!,Monday,Normal
+ER0465,Anmol Chanda,14,Male,A-,20-06-2025,14:38,22-06-2025 12:38,Neurology,Dr. Nair,Pneumonia,30,1059.7,Insurance,Discharged,Teen,June,#VALUE!,Friday,Fast
+ER0466,Andrew Boase,64,Other,O+,23-06-2025,02:47,25-06-2025 02:47,Emergency,Dr. Nair,Appendicitis,29,83681.35,Credit Card,Admitted,Senior,June,#VALUE!,Monday,Fast
+ER0467,Zehaan Kalla,68,Female,AB-,30-05-2025,16:21,31-05-2025 09:21,Cardiology,Dr. Sharma,Kidney Stones,47,29845.92,Cash,Discharged,Senior,May,#VALUE!,Friday,Normal
+ER0468,Hemangini Narain,41,Other,A+,05-05-2025,03:06,05-05-2025 19:06,ENT,Dr. Sharma,Dengue,52,18308.58,Insurance,Admitted,Middle Aged,May,#VALUE!,Monday,Normal
+ER0469,Krishna Sathe,71,Female,B-,26-08-2025,05:01,27-08-2025 15:01,Neurology,Dr. Verma,Heart Attack,24,81495.52,Credit Card,Admitted,Senior,August,#VALUE!,Tuesday,Fast
+ER0470,Hemal Choudhry,27,Female,O-,15-09-2025,10:36,18-09-2025 02:36,Gynecology,Dr. Singh,Stroke,23,24128.7,Cash,Discharged,Adult,September,#VALUE!,Monday,Fast
+ER0471,Ira Basu,35,Male,AB+,30-12-2025,12:37,31-12-2025 18:37,Orthopedics,Dr. Reddy,Migraine,28,12823.8,Cash,Discharged,Adult,December,#VALUE!,Tuesday,Fast
+ER0472,Andrew Raj,54,Female,B+,30-08-2025,23:57,31-08-2025 01:57,Neurology,Dr. Singh,Hypertension,8,41619.41,Credit Card,Discharged,Middle Aged,August,#VALUE!,Saturday,Fast
+ER0473,Veer Chhabra,13,Other,B+,04-05-2025,07:31,04-05-2025 14:31,Gynecology,Dr. Sharma,Migraine,13,69267.63,Government Scheme,Discharged,Teen,May,#VALUE!,Sunday,Fast
+ER0474,Mahika Hegde,43,Female,O-,15-06-2025,03:59,15-06-2025 16:59,ENT,Dr. Singh,Kidney Stones,75,47608.03,Not Specified,Admitted,Middle Aged,June,#VALUE!,Sunday,Slow
+ER0475,Diya Sharaf,45,Other,B-,01-08-2025,06:29,03-08-2025 11:29,Orthopedics,Dr. Iyer,Hypertension,88,24549.44,Credit Card,Discharged,Middle Aged,August,#VALUE!,Friday,Slow
+ER0476,Urishilla Chopra,11,Female,O+,02-05-2025,01:46,04-05-2025 16:46,ENT,Dr. Nair,Dengue,28,81332.23,Cash,Discharged,Child,May,#VALUE!,Friday,Fast
+ER0477,Aarush Sarkar,81,Other,AB+,14-06-2025,07:23,16-06-2025 03:23,Gynecology,Dr. Patel,Fracture,46,14188.96,Cash,Admitted,Senior,June,#VALUE!,Saturday,Normal
+ER0478,Maanas Jaggi,78,Other,AB+,28-10-2025,09:22,29-10-2025 23:22,Pediatrics,Dr. Verma,Heart Attack,39,66492.31,Credit Card,Discharged,Senior,October,#VALUE!,Tuesday,Normal
+ER0479,Rayaan Maharaj,53,Male,B+,18-06-2025,11:49,21-06-2025 06:49,ENT,Dr. Sharma,Appendicitis,210,61996.77,Credit Card,Discharged,Middle Aged,June,#VALUE!,Wednesday,Critical
+ER0480,Dalaja Kant,22,Female,A-,27-03-2025,21:03,28-03-2025 08:03,General Medicine,Dr. Patel,Fracture,64,79659.06,Government Scheme,Discharged,Adult,March,#VALUE!,Thursday,Slow
+ER0481,Noah Sood,68,Male,A-,09-05-2025,20:53,10-05-2025 00:53,Gynecology,Dr. Verma,Pneumonia,30,13620.68,Government Scheme,Admitted,Senior,May,#VALUE!,Friday,Fast
+ER0482,Gautami Barad,57,Other,B+,26-12-2025,04:20,27-12-2025 12:20,Pediatrics,Dr. Iyer,Kidney Stones,18,71354.75,Insurance,Admitted,Middle Aged,December,#VALUE!,Friday,Fast
+ER0483,Ekiya Mandal,61,Female,O+,06-01-2026,03:35,08-01-2026 01:35,Emergency,Dr. Nair,Appendicitis,12,82426.32,Cash,Discharged,Senior,January,#VALUE!,Tuesday,Fast
+ER0484,Lajita Lata,68,Other,O+,14-07-2025,06:47,16-07-2025 17:47,Gynecology,Dr. Singh,Heart Attack,37,46101.96,Insurance,Discharged,Senior,July,#VALUE!,Monday,Normal
+ER0485,Damini Prabhakar,34,Male,O+,28-11-2025,20:52,30-11-2025 19:52,Gynecology,Dr. Sharma,Chest Pain,21,44720.22,Cash,Admitted,Adult,November,#VALUE!,Friday,Fast
+ER0486,Qushi Nadig,89,Female,AB-,13-08-2025,18:44,16-08-2025 07:44,Cardiology,Dr. Verma,Chest Pain,14,65215.95,Credit Card,Discharged,Senior,August,#VALUE!,Wednesday,Fast
+ER0487,Rajeshri Bansal,25,Female,AB+,13-03-2026,09:04,13-03-2026 10:04,Emergency,Dr. Reddy,Migraine,22,14296.27,Government Scheme,Discharged,Adult,March,#VALUE!,Friday,Fast
+ER0488,Amruta Barman,11,Female,B-,12-10-2025,03:18,13-10-2025 08:18,Pediatrics,Dr. Verma,Fever,17,55294.62,Credit Card,Discharged,Child,October,#VALUE!,Sunday,Fast
+ER0489,Bishakha Karnik,18,Female,A-,12-11-2025,16:15,13-11-2025 01:15,Neurology,Dr. Nair,Pneumonia,91,38758.83,Government Scheme,Admitted,Adult,November,#VALUE!,Wednesday,Slow
+ER0490,Sanaya Bakshi,7,Other,A+,24-11-2025,17:59,24-11-2025 20:59,Neurology,Dr. Iyer,Fracture,56,24338.68,Cash,Discharged,Child,November,#VALUE!,Monday,Normal
+ER0491,Caleb Desai,12,Male,A+,07-03-2026,08:19,07-03-2026 10:19,General Medicine,Dr. Nair,Migraine,32,29391.64,Credit Card,Discharged,Child,March,#VALUE!,Saturday,Normal
+ER0492,Yuvraj Seshadri,60,Other,A+,09-01-2026,13:24,12-01-2026 05:24,Emergency,Dr. Singh,Fracture,80,71779.66,Cash,Admitted,Middle Aged,January,#VALUE!,Friday,Slow
+ER0493,Anamika Kaul,70,Female,B+,27-04-2025,21:38,Still Admitted,Orthopedics,Dr. Khan,Fever,34,69557.69,Insurance,Admitted,Senior,April,#VALUE!,Sunday,Normal
+ER0494,Nikita Koshy,57,Male,A+,07-11-2025,00:09,08-11-2025 08:09,Gynecology,Dr. Khan,Heart Attack,19,62634.77,Insurance,Discharged,Middle Aged,November,#VALUE!,Friday,Fast
+ER0495,Tamanna Murty,50,Other,O+,08-09-2025,05:59,09-09-2025 08:59,ENT,Dr. Singh,Appendicitis,82,53664.38,Insurance,Discharged,Middle Aged,September,#VALUE!,Monday,Slow
+ER0496,Veda Ganesh,33,Female,O+,26-08-2025,12:14,29-08-2025 11:14,Orthopedics,Dr. Khan,Asthma,45,75495.4,Cash,Discharged,Adult,August,#VALUE!,Tuesday,Normal
+ER0497,Mekhala Subramanian,42,Male,B+,13-12-2025,18:31,15-12-2025 01:31,Gynecology,Dr. Verma,Pneumonia,17,10610.39,Cash,Admitted,Middle Aged,December,#VALUE!,Saturday,Fast
+ER0498,Yoshita Bora,89,Other,B+,11-12-2025,02:18,11-12-2025 08:18,ENT,Dr. Singh,Hypertension,29,8061.05,Cash,Discharged,Senior,December,#VALUE!,Thursday,Fast
+ER0499,Tanveer Dass,8,Female,B+,06-08-2025,22:43,08-08-2025 18:43,Cardiology,Dr. Patel,Appendicitis,19,41722.72,Credit Card,Discharged,Child,August,#VALUE!,Wednesday,Fast
+ER0500,Upasna Dass,25,Male,AB+,03-10-2025,10:09,05-10-2025 07:09,ENT,Dr. Singh,COVID-19,14,11884.87,Insurance,Discharged,Adult,October,#VALUE!,Friday,Fast
